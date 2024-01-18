@@ -1,25 +1,18 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Diving Into a New Chapter: JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-01-17
 published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+When first introduced to programming, you have this total feeling of anxiety and stress crawling up your spine. It’s like a Professor giving you a coding quiz on the first day of a beginner's Computer Science course. Well, quite literally, that happened to me in my freshman year of college when I had no prior experience or knowledge in programming. However, the feeling of satisfaction felt extraordinary when I first ran my one line of code in Java--that took me 15 minutes to write out--but it worked! That is what motivated me to get all the way here along my journey, but now feeling that same spine crawling feeling with a bit of excitement to learn a new programming language: JavaScript.
 
 ## In the context of programming
 
