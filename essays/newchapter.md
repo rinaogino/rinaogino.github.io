@@ -12,36 +12,18 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-When first introduced to programming, you have this total feeling of anxiety and stress crawling up your spine. It’s like a Professor giving you a coding quiz on the first day of a beginner's Computer Science course. Well, quite literally, that happened to me in my freshman year of college when I had no prior experience or knowledge in programming. However, the feeling of satisfaction felt extraordinary when I first ran my one line of code in Java--that took me 15 minutes to write out--but it worked! That is what motivated me to get all the way here along my journey, but now feeling that same spine crawling feeling with a bit of excitement to learn a new programming language: JavaScript.
+When first introduced to programming, you have this total feeling of anxiety and stress crawling up your spine. It’s like a Professor giving you a coding quiz on the first day of a beginner's Computer Science course. Well, quite literally, that happened to me in my freshman year of college when I had no prior experience or knowledge in programming. However, the feeling of satisfaction felt extraordinary when I first ran my one line of code in Java that took me 15 minutes to write out…and it worked! That is what motivated me to get here, but now feeling that spine-crawling feeling once again while learning a new language: JavaScript.
 
-## In the context of programming
+## Getting Comfortable
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+As of now, I am in the zone of getting comfortable with writing out functions, as I find them to be simpler than my first language, Java. Since Java is moreso a complex language, I would have to type out “public static void main (String[] args)” per new method, yet “function NAME (parameters)” is the only required expression per ‘function’ creation in JavaScript. Furthermore, being able to print strings in a similar manner such as “System.out.println” versus “console.log()” has allowed me to get used to JavaScript exceedingly.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+Per conditional statements such as if statements or switch statements, they are also similarly used. This is where I realized that Java and JavaScript share almost the same syntax! With a bit of searching, I found out that Java and JavaScript syntaxes originate from the language C, which I enjoyed learning in the past (after Java), as well as C++.
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+## The Pushing Point... Athletic Software Engineering
 
-## In the context of engineering
+While finding similarities and getting comfortable with JavaScript, I will admit that I am still a beginner to a completely new language. Having **W**orkout **O**f the **D**ay(s) (WODs) in ICS 314, I do find it a bit difficult to solve certain prompts given a short amount of time. I find myself to take more time in understanding concepts, and doing that in a speedy manner tends to terrify me. However, I feel that this will be my pushing point and motivate me to become a greater programmer and a better student in general. As stressful as it is, I want to do my best by applying my prior knowledge as well as new knowledge I will grasp, and hope to find it enjoyable one day.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
+## Closing the Script
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+As I have just taken a small step into this adventure, I look forward to seizing every opportunity I get in order to master JavaScript. Whilst overcoming the negative feelings, I want to say that I am excited to see the challenges I overcome to learn this highly efficient programming language that is widely used throughout the world.
