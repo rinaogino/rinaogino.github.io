@@ -13,7 +13,7 @@ summary: "Throughout my high school career, I represented the school as the stud
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/KalaniHighSchool-Logo.png" class="img-thumbnail" >
+  <img width="200px" src="../img/leadership-logo.png" class="img-thumbnail" >
 </div>
 
 When I first moved to Hawai'i at the age of one, I never stood out because I could not speak, read, or write any English. I was also an awful artist, so I could never express my opinions. After living here for a while and accepting that I will be stuck with English having to be my primary language, I decided to step up in high school and join the class council. I participated in many events as possible, until one day, I was given the opportunity to work with the main student body council that represented my high school as a whole--the Kalani Association of Students (KAS).
