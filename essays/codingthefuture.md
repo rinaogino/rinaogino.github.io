@@ -6,9 +6,9 @@ title: "Coding the Future"
 date: 2024-01-18
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Software Engineering
+  - Learning
+  - Programming
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/coding-meme.jpeg">
