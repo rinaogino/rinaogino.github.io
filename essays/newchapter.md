@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/difficulty/javascripticon.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">
 
 When first introduced to programming, you have this total feeling of anxiety and stress crawling up your spine. It’s like when your Professor assigns you a coding quiz on the first day of a beginner's Computer Science course. Well, quite literally, that happened to me in my freshman year of college when I had no prior experience or knowledge in programming. However, the feeling of satisfaction felt extraordinary when I first ran my one line of code in Java (that took me 15 minutes to write out) when it worked! That is what motivated me to get here, but now with that spine-crawling feeling once again to learn a new programming language: JavaScript.
 
