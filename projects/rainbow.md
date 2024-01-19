@@ -13,7 +13,6 @@ summary: "I attended the Hawaii Japanese School: Rainbow Gakuen for 10 years to 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
 </div>
 
 From the age of 4, I had dedicated my life to the Hawaii Japanese School, also known as Rainbow Gakuen (translates to "rainbow school"). Students met weekly on Saturdays from 8:30am - 3:30pm to learn numerous curriculums ranging from grades K-8 using textbooks and workbooks approved by the Ministry of Education in Japan. 
