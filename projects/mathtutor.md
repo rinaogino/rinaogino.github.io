@@ -12,7 +12,7 @@ summary: "My experience in peer tutoring a high school student in mathematics."
 ---
 
 <div class="text-center p-4">
-
+<img width="200px" src="../img/tutoring.jpeg" class="img-thumbnail" >
 </div>
 
 When COVID-19 happened, almost all schools were shut down and students were forced to meet virtually. Many students were lacking skills in learning, socializing, and motivation to do anything. It was a disaster. I then thought to myself, what can I do that can possibly be a help to anyone while keeping myself mentally active. This was when one of my high school counselors reached out to me and offered me a volunteering opportunity of tutoring students in need. As I have always found myself excelling in mathematics, I took part in tutoring one particular student who seemed to be falling behind in their classes especially with the impact of the pandemic.
