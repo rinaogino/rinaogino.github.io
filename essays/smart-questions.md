@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Coding the Future"
+title: "Smart Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2024-01-18
+date: 2015-01-08
 published: false
 labels:
   - Questions
