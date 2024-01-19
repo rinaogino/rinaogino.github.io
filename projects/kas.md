@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/KalaniHighSchool-Logo.png
+image: img/kalani-logo.jpg
 title: "Kalani Association of Students"
 date: 2024
 published: true
