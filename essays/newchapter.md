@@ -8,22 +8,24 @@ published: true
 labels:
   - Software Engineering
   - Learning
+  - JavaScript
+  - Programming
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">
 
-When first introduced to programming, you have this total feeling of anxiety and stress crawling up your spine. It’s like when your Professor assigns you a coding quiz on the first day of a beginner's Computer Science course. Well, quite literally, that happened to me in my freshman year of college when I had no prior experience or knowledge in programming. However, the feeling of satisfaction felt extraordinary when I first ran my one line of code in Java (that took me 15 minutes to write out) when it worked! That is what motivated me to get here, but now with that spine-crawling feeling once again to learn a new programming language: JavaScript.
+When initially delving into the realm of programming, you have this feeling of anxiety and stress crawling up your spine. It’s like when your Professor springs a coding quiz on the very first day of a beginner's Computer Science course. Well, that scenario became true in my freshman year of college when I had absolutely no prior experience or knowledge in programming. However, the feeling of accomplishment was extraordinary when I first ran my initial one line of code in Java despite the 15 minutes it took me to write out. That was the start of my journey here, now I take on another challenge with that spine-crawling feeling once again to learn a new programming language: JavaScript.
 
 ## Getting Comfortable
 
-As of now, I am in the zone of getting comfortable with writing out functions--I find them to be simpler than my first language, Java. Since Java is a much more complex language, I would have to type out “public static void main (String[] args)” per every new method whilst JavaScript would require, “function NAME (parameters)” to create a new 'function' expression. Furthermore, being able to print things in a similar manner such as “System.out.println” versus “console.log()” has allowed me to get used to JavaScript exceedingly.
+As of now, I am navigating the zone of getting comfortable with writing functions--I find them to be simpler compared to my first programming language, Java. Java is a much more complex language, where I would have to type out “public static void main (String[] args)” per every new method whereas JavaScript would simply require the syntax, “function NAME (parameters).” Furthermore, the similarity in being able to print to the console such as “System.out.println” in Java and “console.log()” in JavaScript has allowed me to get used to JavaScript.
 
-Per conditional statements such as if statements or switch statements, they are also similarly used. This is where I realized that Java and JavaScript share almost the same syntax! With a bit of searching, I found out that Java and JavaScript syntaxes originate from the C language, which I enjoyed learning prior (after Java), as well as C++.
+Per conditional statements such as if statements and switch statements, they are also similarly striking. This is where I realized that the syntaxes of both Java and JavaScript are almost the same! Java and JavaScript syntaxes stem from the C programming language, which I also previously enjoyed learning, as well as C++.
 
 ## But... The Pushing Point
 
-While finding similarities with past programming languages I have learnt and starting to get comfortable with JavaScript, I still must consider that I am still a beginner to programming. Having **W**orkout **O**f the **D**ay(s) (WODs) in ICS 314 is rather difficult where I must solve certain prompts given a short amount of time. Learning, I find myself to take more time than others to grasp concepts, and the course that is in a totally opposite, speedy manner tends to terrify me. Still yet, I feel that this will be my pushing point and motivate me to become a greater programmer and a better student in general. As stressful as it is, I want to do my best and hope to find it all enjoyable one day.
+While finding similarities between past programming languages I have learnt and starting to get comfortable with JavaScript, I acknowledge that I am still taking my first steps in to programming. Having **W**orkout **O**f the **D**ay(s) (WODs) in ICS 314 (Software Engineering course) present a difficult obstacle where I am required to solve certain prompts given a short amount of time. As a learner, I often find myself to take more time than others to grasp concepts, and fast paced courses like these tend to terrify me. Still yet, I view that this will be my pushing point and a chance for myself to grow and become a better programmer and a better student overall. As stressful as it is, I want to do my best and hope to find enjoyment thoughout the process.
 
 ## Closing the Script
 
-As I have just taken a small step into this adventure, I look forward to seizing every opportunity I get in order to master JavaScript. Whilst overcoming my feeble feelings, I want to say that I am excited to see the challenges I overcome and learn this highly efficient programming language that my Professor and peers always talk about.
+As I take on this new adventure, I look forward to seizing every opportunity that comes my way to master JavaScript. With overcoming my feeble feelings, I am excited to see the challenges I overcome and learn why JavaScript is such a highly efficient programming language that my Professor and peers often speak of.
