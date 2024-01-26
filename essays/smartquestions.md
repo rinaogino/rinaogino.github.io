@@ -26,11 +26,11 @@ Throughout software engineering, programmers run into hundreds of errors and bug
 
 First off, I will review a question on Scanner methods, [Scanner is skipping nextLine() after using next() or nextFoo()?](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo) This question was asked 11 years ago, yet it was featured with 854,000 views with 949 upvotes and 25 replied answers. 
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/coding-meme.jpeg">
+<img width="700px" class="rounded float-start pe-4" src="../img/stackoverflow1.png">
 
 Why was this question so popular and viewed to this day? The developer first off skillfully used a subject header that was simple and brief to grasp tech experts' attentions. They consicely stated what they were trying to do within their explanation as well. There were no unnecessary words in the subject header nor inappropriate language, and went straight to the point. Additionally, they provided snippets of their code and console outputs so that potential experts could clearly see what was causing the certain error. Multiple comments implemented throughout their actual code allowed viewers to following along with the developer's perspective as well. Lastly, they mentioned how they have made an attempt with the pasted exact methods and I believe this overall effectively communicated a "smart" question. 
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/coding-meme.jpeg">
+<img width="700px" class="rounded float-start pe-4" src="../img/stackoverflow2.png">
 
 The answer to this question was understandably explained and an example that causes a similar behavior that could occur once again. What's more, 2 solutions were provided. The art of asking a "smart" question was therefore successful in not only helping the developer, but aided as a valuable resource for others who may have also been in the same situation looking for an answer. 
 
