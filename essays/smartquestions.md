@@ -29,7 +29,7 @@ This question was asked 11 years ago, yet it was featured with 854,000 views wit
     <img src="../img/stackoverflow1.png" style="width:50%; height:50%;">
 </div>
 
-<p>Why was this question so popular and viewed to this day? The developer first off skillfully used a subject header that was simple and brief to grasp tech experts' attentions. They consicely stated what they were trying to do within their explanation as well. There were no unnecessary words in the subject header nor inappropriate language, and went straight to the point. Additionally, they provided snippets of their code and console outputs so that potential experts could clearly see what was causing the certain error. Multiple comments implemented throughout their actual code allowed viewers to following along with the developer's perspective as well. Lastly, they mentioned how they have made an attempt with the pasted exact methods and I believe this overall effectively communicated a "smart" question. 
+Why was this question so popular and viewed to this day? The developer first off skillfully used a subject header that was simple and brief to grasp tech experts' attentions. They consicely stated what they were trying to do within their explanation as well. There were no unnecessary words in the subject header nor inappropriate language, and went straight to the point. Additionally, they provided snippets of their code and console outputs so that potential experts could clearly see what was causing the certain error. Multiple comments implemented throughout their actual code allowed viewers to following along with the developer's perspective as well. Lastly, they mentioned how they have made an attempt with the pasted exact methods and I believe this overall effectively communicated a "smart" question. 
 
 <div style="text-align: center;">
     <img src="../img/stackoverflow2.png" style="width:50%; height:50%;">
@@ -47,4 +47,6 @@ The following is a not so "smart" question that I have found on Stack Overflow: 
 </div>
 
 This post was extensive, as the developer expressing their frustration about the C#/WPF application, which made it seem like they weren't quite asking for help. Their subject heading more-so resembled an essay instead of stating what was wrong or what they needed help with as well making it hard for potential tech experts to resolve the issue. Towards the end of their post, they finally ask their question, "All I want is a simple installer that copies over the EXE and associated DLLs. Why is this so difficult? Can WiX do what I need? Or do I need a different installer toolkit?" The tone of the question could be perceived as abrupt with no courtesy and convey a sense that it was "urgent." Perhaps, I would personally not want to reply and notably, there were 0 answers written back although this was written 3 years ago.
+
+## Final Thoughts on Improving Smart Inquiry
 
