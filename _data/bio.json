@@ -7,7 +7,7 @@
     "phone": "808-221-9127",
     "website": "https://rinaogino.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a Minor in Japanese in the Department of East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "rinaogino", "url": "http://github.com/rinaogino" },
       { "network": "linkedin", "username": "rinaogino", "url": "http://www.linkedin.com/in/rinaogino/" }
@@ -51,30 +51,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa College of Natural Sciences Student Academic Success Center",
+      "company": "College of Natural Sciences Student Academic Success Center",
       "position": "Office Assistant",
-      "website": "",
+      "website": "https://natsci.manoa.hawaii.edu/sasc/",
       "startDate": "2023-01-09",
       "endDate": "Present",
-      "summary": "Student assistant for academic advisors",
+      "summary": "Student Assistant for Academic Advisors",
       "highlights": [
-        "Maintain and update website, social media, and weekly newsletters",
+        "Maintain and update website, social media, calendar, and weekly newsletters",
         "Respond to students' questions or concerns in an efficient and appropriate manner",
-        "Analyze student survey data"
+        "Greet and help students with navigating the academic support in need",
+        "Evaluate data from student surveys",
+        "Manage and secure confidential student information in the database"
       ]
     }
   ],
   "volunteer": [
     {
       "organization": "Kaimuki Public Library",
-      "website": "https://www.librarieshawaii.org/branch/kaimuki-public-library/",
-      "position": "RFID Programmer",
+      "website": "",
+      "position": "Student Volunteer",
       "startDate": "2023-09",
       "endDate": "Present",
-      "summary": "Student Volunteer",
+      "summary": "Student Assistant for Librarians",
       "highlights": [
-        "Program all books into RFID system",
-        "Organize and re-shelf books"
+        "Implement the integration of all books into the RFID system",
+        "Manage and rearrange bookshelves"
       ]
     }
   ],
@@ -82,13 +84,13 @@
     {
       "title": "Charles R. Hemenway Scholarship",
       "date": "2023-2024",
-      "awarder": "UH Manoa",
+      "awarder": "University of Hawaii at Manoa (STAR)",
       "summary": "Scholarships awarded to undergraduate students with great weight in character and qualities of good citizenship, as well as academic merit, a minimum overall GPA of 3.0."
     },
     {
       "title": "W. Wesley and Hiromi Peterson Student Support Endowment",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
+      "awarder": "University of Hawaii at Manoa (STAR)",
       "summary": "Scholarships awarded to a student enrolled in a degree program in the Department of Information and Computer Sciences at the University of Hawai'i at Manoa College of Natural Sciences for the purpose of encouraging and recognizing excellence in research and scholarship, a minimum overall GPA of 3.5."
     },
     {
