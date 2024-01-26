@@ -12,8 +12,6 @@ labels:
   - Answers
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/coding-meme.jpeg">
-
 ## The Challenge of Seeking Answers
 
 Growing up in America as part of an international household where my parents didn't speak any English meant being constantly bombarded with questions wherever we went, all of which were often expected to be translated by me. In my experience, my mother would approach store employees or customer service with numerous questions and complaints, and I would feel frustrated and anxious because the inquiries could come across as rude or bothersome.
