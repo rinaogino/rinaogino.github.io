@@ -41,3 +41,5 @@ The answer to this question was understandably explained and an example that cau
 
 The following is a not so "smart" question that I have found on Stack Overflow: [Adventures in Installing a C#/WPF Application (WiX)](https://stackoverflow.com/questions/63305272/adventures-in-installing-a-c-wpf-application-wix).
 
+This post was extensive, as the developer expressing their frustration about the C#/WPF application, which made it seem like they weren't quite asking for help. Their subject heading more-so resembled an essay instead of stating what was wrong or what they needed help with as well making it hard for potential tech experts to resolve the issue. Towards the end of their post, they finally ask their question, "All I want is a simple installer that copies over the EXE and associated DLLs. Why is this so difficult? Can WiX do what I need? Or do I need a different installer toolkit?" The tone of the question could be perceived as abrupt with no courtesy and convey a sense that it was "urgent." Perhaps, I would personally not want to reply and notably, there were 0 answers written back although this was written 3 years ago.
+
