@@ -16,11 +16,11 @@ labels:
 
 Growing up in America as part of an international household where my parents didn't speak any English meant being constantly bombarded with questions wherever we went, all of which were often expected to be translated by me. In my experience, my mother would approach store employees or customer service with numerous questions and complaints, and I would feel frustrated and anxious because the inquiries could come across as rude or bothersome.
 
-Without my parents around, I disliked asking any questions, fearing that they might sound "dumb," and that others would look down on me. I would reassure myself, saying, "I can look this up later on my own" or "It's fine, I'll figure it out somehow." However, hours later, after finding some answers online, I would always realize that the information wasn't sufficient. Now, what should I do?
+Without my parents around, I developed a dislike for asking any questions, fearing that they might sound "dumb," and that others would look down on me. I would reassure myself saying, "I can look this up later on my own" or "It's fine, I'll figure it out somehow." However, hours later, after finding some answers online, I would always realize that the information wasn't sufficient. Now, what should I do?
 
 ## Nurturing Success Through Words
 
-Throughout software engineering, programmers run into hundreds of errors and bugs and the effectiveness of asking "smart" questions becomes crucial. To dive deeper into what smart questions are, some examples of Stack Overflow will be implemented. 
+Throughout software engineering, programmers run into hundreds of errors and bugs and the effectiveness of asking "smart" questions becomes crucial. Whether it be in person or online, we must look out for finding relevant information effectively using courteous manners as well as not getting too side tracked in unnecessary tangents. To dive further into what smart questions are, some examples of Stack Overflow will be implemented. 
 
 First off, I will review a question on Scanner methods, [Scanner is skipping nextLine() after using next() or nextFoo()?](https://stackoverflow.com/questions/13102045/scanner-is-skipping-nextline-after-using-next-or-nextfoo) 
 This question was asked 11 years ago, yet it was featured with 854,000 views with 949 upvotes and 25 replied answers. 
@@ -50,3 +50,4 @@ This post was extensive, as the developer expressing their frustration about the
 
 ## Final Thoughts on Improving Smart Inquiry
 
+Finally, as software engineers, collaboration with other developers is inevitable. This means that there will be many errors encountered as well as grappling with questions when one is confused or uncertain. Hence, the skill of asking a "smart" question in an appropriate manner will be crucial! As for myself, overcoming social anxiety and articulating questions in a "smart" way will be crucial. Following the mannerisms of *How to ask questions the smart way* I am aiming to seek "smart" answers and hopefully contributing to the environment as well.
