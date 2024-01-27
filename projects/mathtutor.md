@@ -19,4 +19,5 @@ As I have always found myself excelling in mathematics, I took part in tutoring 
 
 This experience has shaped my understanding of mentorship as I now have learned on how I can take part as someone's academic growth and not just about the mathematical formulas or how to solve them. Witnessing the transformation from struggling with mathematical concepts to gaining confidence was an experience that highlighted new dedication and collaboration skillsets.
 
+--
 *Note that I used ChatGPT to improve grammar and spelling in this document.*
