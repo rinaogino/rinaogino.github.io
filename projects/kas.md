@@ -35,4 +35,4 @@ In conclusion, my pathway from being a one year old newcomer to Hawai'i, struggl
 My experience in KAS revealed the depth of dedication required for effective student leadership. Through various positions, I believe I contributed to creating a enjoyable and safe high school environment. My journey reflects on the power of challenging things in life, reinforcing the idea that personal growth is an ongoing process.
 
 
-*Note that I used ChatGPT to improve grammar and spelling in this document.*
+**Note that I used ChatGPT to improve grammar and spelling in this document.*
