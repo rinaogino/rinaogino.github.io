@@ -24,7 +24,7 @@ Per conditional statements such as if statements and switch statements, they are
 
 ## But... The Pushing Point
 
-While finding similarities between past programming languages I have learnt and starting to get comfortable with JavaScript, I acknowledge that I am still taking my first steps in to programming. Having **W**orkout **O**f the **D**ay(s) (WODs) in ICS 314 (Software Engineering course) present a difficult obstacle where I am required to solve certain prompts given a short amount of time. As a learner, I often find myself to take more time than others to grasp concepts, and fast paced courses like these tend to terrify me. Still yet, I view that this will be my pushing point and a chance for myself to grow and become a better programmer and a better student overall. As stressful as it is, I want to do my best and hope to find enjoyment thoughout the process.
+While finding similarities between past programming languages I have learnt and starting to get comfortable with JavaScript, I acknowledge that I am still taking my first steps in to programming. Having **W**orkout **O**f the **D**ay(s) (WODs) in my current software engineering course presents a difficult obstacle where I am required to solve certain prompts given a short amount of time. As a learner, I often find myself to take more time than others to grasp concepts, and fast paced courses like these tend to terrify me. Still yet, I view that this will be my pushing point and a chance for myself to grow and become a better programmer and a better student overall. As stressful as it is, I want to do my best and hope to find enjoyment thoughout the process.
 
 ## Closing the Script
 
