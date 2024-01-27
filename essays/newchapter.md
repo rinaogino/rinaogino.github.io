@@ -14,7 +14,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">
 
-When initially delving into the realm of programming, you have this feeling of anxiety and stress crawling up your spine. It’s like when your Professor springs a coding quiz on the very first day of a beginner's Computer Science course. Well, that scenario became true in my freshman year of college when I had absolutely no prior experience or knowledge in programming. However, the feeling of accomplishment was extraordinary when I first ran my initial one line of code in Java despite the 15 minutes it took me to write out. That was the start of my journey here, now I take on another challenge with that spine-crawling feeling once again to learn a new programming language: JavaScript.
+When initially diving into the realm of programming, you have this feeling of anxiety and stress crawling up your spine. It’s like when your Professor springs a coding quiz on the very first day of a beginner's Computer Science course. Well, that scenario became true in my freshman year of college when I had absolutely no prior experience or knowledge in programming. However, the feeling of accomplishment was extraordinary when I first ran my initial one line of code in Java despite the 15 minutes it took me to write out. That was the start of my journey here, now I take on another challenge with that spine-crawling feeling once again to learn a new programming language: JavaScript.
 
 ## Getting Comfortable
 
@@ -28,4 +28,4 @@ While finding similarities between past programming languages I have learnt and 
 
 ## Closing the Script
 
-As I take on this new adventure, I look forward to seizing every opportunity that comes my way to master JavaScript. With overcoming my feeble feelings, I am excited to see the challenges I overcome and learn why JavaScript is such a highly efficient programming language that my Professor and peers often speak of.
+As I take on this new adventure, I look forward to grasping every opportunity that comes my way to master JavaScript. With overcoming my anxiety inducing feelings, I am excited to see the challenges I overcome and learn why JavaScript is such a highly efficient programming language that my Professor and peers often speak of.
