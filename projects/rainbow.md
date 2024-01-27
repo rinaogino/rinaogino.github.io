@@ -6,9 +6,9 @@ title: "Rainbow Gakuen"
 date: 2024
 published: true
 labels:
+  - Japanese
   - Education
   - Dedication
-  - Japanese
 summary: "I attended the Hawaii Japanese School: Rainbow Gakuen for 10 years to learn the history, culture, reading, writing, and language of Japan."
 ---
 
@@ -17,8 +17,20 @@ summary: "I attended the Hawaii Japanese School: Rainbow Gakuen for 10 years to 
 <img width="200px" src="../img/graduationceremony.jpeg" class="img-thumbnail" >
 </div>
 
-From the age of 4, I had dedicated my life to the Hawaii Japanese School, also known as Rainbow Gakuen (translates to "rainbow school"). Students met weekly on Saturdays from 8:30am - 3:30pm to learn numerous curriculums ranging from grades K-8 using textbooks and workbooks approved by the Ministry of Education in Japan. 
+## About
 
-Classes contained of six blocks broken up to learn history and culture, reading, writing, all in Japanese. Students were never really allowed to speak any language besides Japanese. Throughout this, once we hit a certain level of reading and writing, weekly 'kanji test(s)' as well as quarterly midterm and final examinations were given. These tests determined whether we could pass and move onto the next grade level or not, so my Fridays consisted of all-nighters where I was *efficienty* cramming to get my workbook homework done and studying for the kanji test that happened the following morning. Nonetheless, students were required to read the textbook out loud in class and annotate beforehand. This upskilled my social anxiety that I faced.
+From the age of 4, my life had been dedicated to the Hawaii Japanese School, also known as Rainbow Gakuen. Every Saturday from 8:30am to 3:30pm, hundreds of students gathered to learn a diverse curriculum spanning from grades K-8, using textbooks and workbooks approved by the Ministry of Education in Japan.
 
-Besides the frightening details on how rigorous weekly Japanese school was, I also formed forever friendships. My classmates and I still talk about the severe testing and stress we faced back then to this day, but truthfully it was the best and biggest project of my life. I learned the importance of language learning, as well as a whole new language, and what I am capable of. レインボー学園、ありがとうございました。(translates to "thank you Rainbow Gakuen)
+The classes were divided into six blocks, each focusing on history, culture, reading, and writing, all conducted in Japanese. Students were never really allowed to speak any language besides Japanese. Throughout this, as we progressed in reading and writing, weekly 'kanji test(s)' along with quarterly midterm and final examinations were given. These tests determined whether we could pass and move onto the next grade level or not, so my Fridays consisted of all-nighters where I was *efficienty* cramming to get my homework done and preparing for the kanji test that happened the following morning. Nonetheless, students were required to read the textbook out loud in class and to prevent embarrassment, I annotate and practiced rigorously beforehand. 
+
+## Field Day Project
+
+During an exciting week each school year, there was an annual sports day where students would be split into teams of red and white and competed against each other. The event included of various sports activities such as 100m sprint races, team relays, ball throwing, and more. Finally, there was a dance performance choreographed by the 8th grade students each year. 
+
+As I entered the 8th grade, I was excited yet nervous for our upcoming performance. Our class had around 25 students, and orchestrating a perfect performance seemed difficult, especially considering that the majority lacked prior dance experience. Yet, when it came to planning and preparing the songs, I decided to take the lead to gather my peers' opinions and votes. This surprisingly went easier than I thought, as we picked out around 7 songs that would later be segmented to a 20 minute performance. Then came the part where we had to choreograph each part. The students met up weekly for almost a month prior to the performance, as we worked together tirelessly to perfect every move.
+
+Finally, the day arrived where all of our efforts would be showcased to the entire school. Our performance surpassed my expectations, and served as a proof to our dedication and teamwork. We had successfully created something that we never thought we would, and revealed the potential within each of us.
+
+## Never a Regretful Time
+
+Besides the frightening details on how rigorous weekly Japanese school was, I formed enduring friendships. My classmates and I still reminisce about the intense testing and stress we faced, but truthfully it was the most significant project of our lives. I learned the importance of language learning, exposed me to a whole new language, and what I am capable of. レインボー学園、ありがとうございました。(translates to "thank you Rainbow Gakuen)
