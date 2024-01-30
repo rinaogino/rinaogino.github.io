@@ -18,7 +18,7 @@ When initially diving into the realm of programming, you have this feeling of an
 
 ## Getting Comfortable
 
-As of now, I am navigating the zone of getting comfortable with writing functions--I find them to be simpler compared to my first programming language, Java. Java is a much more complex language, where I would have to type out “public static void main (String[] args)” per every new method whereas JavaScript would simply require the syntax, “function NAME (parameters).” Furthermore, the similarity in being able to print to the console such as “System.out.println” in Java and “console.log()” in JavaScript has allowed me to get used to JavaScript.
+As of now, I am navigating the zone of getting comfortable with writing functions--I find them to be simpler compared to my first programming language, Java. Java is a much more complex language, where I would have to type out “public static void main (String[] args)” per every new method whereas JavaScript would simply require the syntax, “function NAME (parameters).” Furthermore, the similarity in being able to print to the console such as “System.out.println” in Java and “console.log()” in JavaScript has allowed me to get used to JavaScript quickly.
 
 Per conditional statements such as if statements and switch statements, they are also similarly striking. This is where I realized that the syntaxes of both Java and JavaScript are almost the same! Java and JavaScript syntaxes stem from the C programming language, which I also previously enjoyed learning, as well as C++.
 
