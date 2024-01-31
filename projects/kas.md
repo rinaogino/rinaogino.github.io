@@ -9,10 +9,10 @@ labels:
   - Leadership
   - Communication
   - Dedication
-summary: "Throughout my high school career, I represented the school as the student body president."
+summary: "Throughout my high school years, I dedicated my time to the school's student body president."
 ---
 
-When I first moved to Hawai'i at the age of one, I never stood out because I could not speak, read, or write any English. I was also an awful artist, so I could never express my opinions. After living here for a while and accepting that I will be stuck with English having to be my primary language, I decided to step up in high school and join the class council. 
+When I first moved to Hawai'i at the age of one, I never stood out because I could not speak, read, or write any English. I was also an awful artist, so I could never express my opinions. I would usually cry and hoped to go back to Japan where the rest of my family lived. However, after a while of living in Hawai'i, I accepted that I will be stuck with English being my primary language and in high school, decided to step up my life and join the class council. 
 
 After actively participating in numerous events, my involvement eventually led to a opportunity. I was given the chance to join the main student body council that represented the entirety of my high school--the Kalani Association of Students (KAS).
 

@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub" , "Linux" , "Visual Studio Code" ]
     }
   ],
   "education": [
@@ -37,6 +37,15 @@
       "startDate": "2021-08",
       "endDate": "Present",
       "courses": [
+        "ICS 141/241 - Discrete Mathematics I & II",
+        "ICS 212 - Program Structure",
+        "ICS 222 - Basic Concepts of Computer Science",
+        "ICS 311 - Algorithms",
+        "ICS 314 - Software Engineering I",
+        "ICS 321 - Database Systems I",
+        "MATH 241/242 - Calculus I & II",
+        "CHEM 161/162 - General Chemistry I & II",
+        "PHYS 151/152 - Physics I & II"
       ]
     },
     {
@@ -46,6 +55,10 @@
       "startDate": "2021-08",
       "endDate": "Present",
       "courses": [
+        "JPN 350 - Introduction to Japanese Linguistics",
+        "JPN 403 - 4th-Year Japanese for Advanced Speakers I",
+        "JPN 404 - 4th-Year Japanese for Advanced Speakers II",
+        "EALL 271 - Japanese Literature in Translation-Traditional"
       ]
     }
   ],
@@ -59,10 +72,9 @@
       "summary": "Student Assistant for Academic Advisors",
       "highlights": [
         "Maintain and update website, social media, calendar, and weekly newsletters",
+        "Manage and secure confidential information in the UH database",
         "Respond to students' questions or concerns in an efficient and appropriate manner",
-        "Greet and help students with navigating the academic support in need",
-        "Evaluate data from student surveys",
-        "Manage and secure confidential student information in the database"
+        "Evaluate and analyze data from student surveys"
       ]
     }
   ],
@@ -84,13 +96,13 @@
     {
       "title": "Charles R. Hemenway Scholarship",
       "date": "2023-2024",
-      "awarder": "University of Hawaii at Manoa (STAR)",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to undergraduate students with great weight in character and qualities of good citizenship, as well as academic merit, a minimum overall GPA of 3.0."
     },
     {
       "title": "W. Wesley and Hiromi Peterson Student Support Endowment",
       "date": "2015",
-      "awarder": "University of Hawaii at Manoa (STAR)",
+      "awarder": "University of Hawaii at Manoa",
       "summary": "Scholarships awarded to a student enrolled in a degree program in the Department of Information and Computer Sciences at the University of Hawai'i at Manoa College of Natural Sciences for the purpose of encouraging and recognizing excellence in research and scholarship, a minimum overall GPA of 3.5."
     },
     {
