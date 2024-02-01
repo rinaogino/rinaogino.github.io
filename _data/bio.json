@@ -17,7 +17,8 @@
     { "name": "Cloud Computing" },
     { "name": "Data Science and Analysis" },
     { "name": "Software Development" },
-    { "name": "Artificial Intelligence" }
+    { "name": "Artificial Intelligence" },
+    { "name": "Japanese"}
   ],
   "skills": [
     {
@@ -43,9 +44,7 @@
         "ICS 311 - Algorithms",
         "ICS 314 - Software Engineering I",
         "ICS 321 - Database Systems I",
-        "MATH 241/242 - Calculus I & II",
-        "CHEM 161/162 - General Chemistry I & II",
-        "PHYS 151/152 - Physics I & II"
+        "MATH 241/242 - Calculus I & II"
       ]
     },
     {
