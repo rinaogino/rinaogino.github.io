@@ -24,35 +24,24 @@ Coding standards are rules or conventions that order how code should be written 
 
 ## ESLint makes the rules
 
-As a learning programmer in JavaScript, one tool that I have been utilizing to find and fix problems is ESLint in IntelliJ IDEA. ESLint shows up as a green checkmark or red error mark depending on what it detects from analyzing the code that you write. In my experience, when I first installed it into the developer environment, I had typed in an example code and that was the moment where I absolutely got humbled and judged with red error lines across my screen. As a person with a detail-oriented personality, it was surprising (and annoying) to see them, I immediately fixed what it told me to do for the satisfactory of the green checkmark.
+As a learning programmer in JavaScript, one tool that I have been utilizing to find and fix problems is ESLint in IntelliJ IDEA. ESLint shows up as a green checkmark or red error mark depending on what it detects from analyzing the code that you write. In my experience, when I first installed it into the developer environment, I had typed in an example code and that was the moment where I absolutely got humbled and judged with red error lines across my screen. As a person with a detail-oriented personality, it was surprising (and annoying) visual, and I immediately fixed what it told me to do for the satisfactory of the green checkmark.
 
-Below is an image of the portion of my screen when I tested code:
+Below is an image of an example of ESLint error marks:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<div style="text-align: center;">
+    <img src="../img/improvingcode/eslint-errormarks.png" style="width:50%; height:50%;">
+</div>
 
-Below is an image of the portion of what ESLint detected for me to fix:
+Below are images of the errors ESLint detected along with fix suggestions:
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<div style="text-align: center;">
+    <img src="../img/improvingcode/eslint-arrayerror.png" style="width:50%; height:50%;">
+    <img src="../img/improvingcode/eslint-reassignerror.png" style="width:50%; height:50%;">
+    <img src="../img/improvingcode/eslint-equalrec.png" style="width:50%; height:50%;">
+</div>
 
-
+In the suggestion images above, we can see that ESLint detected fixes that needs to be done as well as suggested what I can do to improve my code! This was another surprise, where I started to think that ESLint is something that I needed. Personally, I tend to stick with what I first learn and make it a habit. Yet, ESLint offered me an opportunity to improve what I've learnt wrong and do it the coding standard way. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This way, my code execution would happen smoothly on myself and others ends too. 
 
 ## The foolproof way to get ignored.
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Conclusion.
