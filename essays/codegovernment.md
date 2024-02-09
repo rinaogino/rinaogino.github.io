@@ -26,7 +26,7 @@ Coding standards are rules or conventions that order how code should be written 
 
 As a learning programmer in JavaScript, one tool that I have been utilizing to find and fix problems is ESLint in IntelliJ IDEA. ESLint shows up as a green checkmark or red error mark depending on what it detects from analyzing the code that you write. In my experience, when I first installed it into the developer environment, I had typed in an example code and that was the moment where I absolutely got humbled and judged with red error lines across my screen. As a person with a detail-oriented personality, it was surprising (and annoying) visual, and I immediately fixed what it told me to do for the satisfactory of the green checkmark.
 
-Below is an image of an example of ESLint error marks:
+Below is an image of how ESLint shows up:
 
 <div style="text-align: center;">
     <img src="../img/improvingcode/eslint-errormarks.png" style="width:50%; height:50%;">
@@ -40,8 +40,8 @@ Below are images of the errors ESLint detected along with fix suggestions:
     <img width="300px" src="../img/improvingcode/eslint-equalrec.png" class="img-thumbnail">
 </div>
 
-In the suggestion images above, we can see that ESLint detected fixes that needs to be done as well as suggested what I can do to improve my code! This was another surprise, where I started to think that ESLint is something that I needed. Personally, I tend to stick with what I first learn and make it a habit. Yet, ESLint offered me an opportunity to improve what I've learnt wrong and do it the coding standard way. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This way, my code execution would happen smoothly on myself and others ends too. 
+Looking at the images above, we can see that ESLint detected fixes and let me know with a red warning mark at the top and red marks all over the code and scroll bar. They also gave suggestions on what I can do to improve my code! This was another surprise, where I found ESLint to be impressive for precisiveness in following code standard. Here, I started to think that ESLint is something that I needed all this time. I tend to stick with what I first learn and make them habits, however, ESLint offered me an opportunity to improve what I've learnt wrong. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This made me feel like a better programmer already, as if I just debugged lines of code. Additionally, this way, my code execution would happen smoothly. I could also share the code without having any errors.
 
 ## So what now?
 
-Conclusion.
+With the astonishment of impressiveness and how crucial coding standards are, I now apply ESLint to majority of the code I develop. As much as people dislike rules and laws, we must follow them to create a enhanced environment, and same goes for coding! That is why I now follow the Government of Code.
