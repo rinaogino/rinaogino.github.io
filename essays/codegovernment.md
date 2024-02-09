@@ -12,7 +12,7 @@ labels:
   - Programming
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/improvingcode/government.jpeg">
+<img width="250px" class="rounded float-start pe-4" src="../img/improvingcode/government.jpeg">
 
 ## Who makes the rules?
 
@@ -35,9 +35,9 @@ Below is an image of how ESLint shows up:
 Below are images of the errors ESLint detected along with fix suggestions:
 
 <div class="text-center p-4">
-    <img width="300px" src="../img/improvingcode/eslint-arrayerror.png" class="img-thumbnail">
-    <img width="300px" src="../img/improvingcode/eslint-reassignerror.png" class="img-thumbnail">
-    <img width="300px" src="../img/improvingcode/eslint-equalrec.png" class="img-thumbnail">
+    <img width="500px" src="../img/improvingcode/eslint-arrayerror.png" class="img-thumbnail">
+    <img width="500px" src="../img/improvingcode/eslint-reassignerror.png" class="img-thumbnail">
+    <img width="500px" src="../img/improvingcode/eslint-equalrec.png" class="img-thumbnail">
 </div>
 
 Looking at the images above, we can see that ESLint detected fixes and let me know with a red warning mark at the top and red marks all over the code and scroll bar. They also gave suggestions on what I can do to improve my code! This was another surprise, where I found ESLint to be impressive for precisiveness in following code standard. Here, I started to think that ESLint is something that I needed all this time. I tend to stick with what I first learn and make them habits, however, ESLint offered me an opportunity to improve what I've learnt wrong. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This made me feel like a better programmer already, as if I just debugged lines of code. Additionally, this way, my code execution would happen smoothly. I could also share the code without having any errors.
