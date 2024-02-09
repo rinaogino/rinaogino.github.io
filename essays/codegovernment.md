@@ -72,27 +72,14 @@ Below is an image of an example of ESLint error marks:
 
 Below are images of the errors ESLint detected along with fix suggestions:
 
-<div style="text-align: center;">
-    <img src="../img/improvingcode/eslint-arrayerror.png" style="width:50%; height:50%;">
-</div>
-<div style="text-align: center;">
-    <img src="../img/improvingcode/eslint-reassignerror.png" style="width:50%; height:50%;">
-</div>
-<div style="text-align: center;">
-    <img src="../img/improvingcode/eslint-equalrec.png" style="width:50%; height:50%;">
+<div class="text-center p-4">
+    <img src="../img/improvingcode/eslint-arrayerror.png" class="img-thumbnail">
+    <img src="../img/improvingcode/eslint-reassignerror.png" class="img-thumbnail">
+    <img src="../img/improvingcode/eslint-equalrec.png" class="img-thumbnail">
 </div>
 
 In the suggestion images above, we can see that ESLint detected fixes that needs to be done as well as suggested what I can do to improve my code! This was another surprise, where I started to think that ESLint is something that I needed. Personally, I tend to stick with what I first learn and make it a habit. Yet, ESLint offered me an opportunity to improve what I've learnt wrong and do it the coding standard way. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This way, my code execution would happen smoothly on myself and others ends too. 
 
 ## The foolproof way to get ignored.
 
-Conclusion.
-    <img src="../img/improvingcode/eslint-reassignerror.png" style="width:50%; height:50%;">
-    <img src="../img/improvingcode/eslint-equalrec.png" style="width:50%; height:50%;">
-</div>
 
-In the suggestion images above, we can see that ESLint detected fixes that needs to be done as well as suggested what I can do to improve my code! This was another surprise, where I started to think that ESLint is something that I needed. Personally, I tend to stick with what I first learn and make it a habit. Yet, ESLint offered me an opportunity to improve what I've learnt wrong and do it the coding standard way. With the easy use of around 2 clicks to improve my code, I had the green checkmark in no time. This way, my code execution would happen smoothly on myself and others ends too. 
-
-## The foolproof way to get ignored.
-
-Conclusion.
