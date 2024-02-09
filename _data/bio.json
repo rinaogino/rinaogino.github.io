@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" , "Linux" , "Visual Studio Code" ]
+      "keywords": [ "MacOS", "Git/GitHub" , "Unix" , "Visual Studio Code" ]
     }
   ],
   "education": [
