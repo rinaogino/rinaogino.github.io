@@ -42,8 +42,8 @@
         "ICS 212 - Program Structure",
         "ICS 222 - Basic Concepts of Computer Science",
         "ICS 311 - Algorithms",
-        "ICS 314 - Software Engineering I",
-        "ICS 321 - Database Systems I",
+        "ICS 314 - Software Engineering",
+        "ICS 321 - Database Systems",
         "MATH 241/242 - Calculus I & II"
       ]
     },
@@ -54,10 +54,7 @@
       "startDate": "2021-08",
       "endDate": "Present",
       "courses": [
-        "JPN 350 - Introduction to Japanese Linguistics",
-        "JPN 403 - 4th-Year Japanese for Advanced Speakers I",
-        "JPN 404 - 4th-Year Japanese for Advanced Speakers II",
-        "EALL 271 - Japanese Literature in Translation-Traditional"
+        ""
       ]
     }
   ],
