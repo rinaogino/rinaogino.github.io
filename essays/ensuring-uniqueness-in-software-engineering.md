@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-    <img width="500px" src="../img/improvingcode/eslint-errormarks.png" class="img-thumbnail">
+    <img width="500px" src="../img/ensuring-uniquness/furniture.jpeg" class="img-thumbnail">
 </div>
 
 ## Moving In to a New Home
@@ -23,7 +23,7 @@ When faced with a task of purchasing and putting together furniture, I'm reminde
 
 Interestingly, the process of assembling furniture is similar to the principles of software design patterns. As each piece of hardware and tools must work together to develop something new and functional, it must be ensured that the final product is solid and aesthetically pleasing as well. Both engineering methods require careful planning, and a understanding of how individual elements contribute to the larger picture. 
 
-<img width="500px" src="../img/improvingcode/eslint-arrayerror.png">
+<img width="500px" src="../img/ensuring-uniqueness/blueprint.jpeg">
 
 ### The Blueprint
 
