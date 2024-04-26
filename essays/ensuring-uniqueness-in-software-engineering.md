@@ -11,8 +11,8 @@ labels:
   - Programming
 ---
 
-<div class="text-center p-4">
-    <img width="500px" src="../img/ensuring-uniquness/furniture.jpeg" class="img-thumbnail">
+<div style="text-align: center;">
+    <img src="../img/ensuring-uniqueness/furniture.jpeg" style="width:50%; height:50%;">
 </div>
 
 ## Moving In to a New Home
