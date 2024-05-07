@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Ensuring Uniqueness in Software Engineering"
+title: "The Intelligence of Arificial Intelligence"
 # All dates must be YYYY-MM-DD format!
 date: 2024-04-25
-published: false
+published: true
 labels:
   - Artificial Intelligence
   - Software Engineering
