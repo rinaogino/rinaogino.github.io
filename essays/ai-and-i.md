@@ -32,13 +32,15 @@ In the 63 experience WODs, I did not utilize AI. Most of the experiences include
 
   2. In-class Practice WODs
 
-In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see different approaches toward solving problems using code. Here, I used ChatGPT when I was not able to understand the prompt or others' opinions and asked for example, "How can I approach the following issue using Underscore.JS: ... "
+In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see different approaches toward solving problems using code. Here, I used ChatGPT when I was not able to understand the prompt or others' opinions. For example, I would ask, "How can I approach the following issue using Underscore.JS: ... " and it would provide around 3 paragrphs explaining the summary of what I must do with an example snippet code. 
 
-  3. In-class WODs
+  3.  In-class WODs
 
-
+With the pressure of having to clear each WOD and receive a 100% score (WODs were based on "all or nothing" scoring), I used AI for the in-class WODs. If I were stuck on a specific step during the WOD, I would ask ChatGPT to roughly explain what I needed to do in order to complete it--I would use a similar approach as the in-class practice WODs. Also, to ensure that my code would run without any errors, I would input my entire code to ChatGPT and confirm that everything would run successfully.
 
   4. Essays
+
+I am not much of a creative writer nor have perfect grammar, so I utilized AI in most of my essays. 
 
   5. Final project
 
@@ -46,7 +48,11 @@ In-class practice WODs were completed in groups of randomly chosen classmates, s
 
   7. Answering a question in class or in Discord
 
+Without the use of AI, I used my own knowledge to answer a question in class or in Discord. If I was unable to explain a prompt myself, I would not answer another in the first place since I do not want to give anyone mistaken information. 
+
   8. Asking or answering a smart-question
+
+I did not use AI to ask or answer a smart-question. If I were asking a smart-question, I would prefer to address the issue in my own words so that nothing is made up or changed, and that I could understand my issue later on if it is solved by another. Similarly, if I were looking for an answer for a smart-question, I would prefer for the answer to be described in human-like, easy terms so I did not use AI to answer any questions. To add on, whenever answering particular questions including errors, I like to include my own experiences of performing the task toward succession and writing a response in my own words helped me achieve this best.
 
   9. Coding example e.g. “give an example of using Underscore .pluck”
 
