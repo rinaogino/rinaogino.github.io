@@ -27,10 +27,16 @@ So, is AI going to take over the world? No, not necessarily. AI may be useful in
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
-- In the 63 experience WODs, I did not utilize AI. Most of the experiences included video explanations of step-to-step instructions on completing the assignments, and I felt that it was better to follow those resources instead of fully depending on AI to understand the material.
+
+In the 63 experience WODs, I did not utilize AI. Most of the experiences included video explanations of step-by-step instructions on completing the assignments, and I felt that it was better to follow those resources instead of depending on AI to understand the material. As a visual learner, it was helpful to see what the Professors were doing throughout the videos so that I can follow along and detect any mistakes that I have made. Particularly in E18, we learnt about functional programming utilizing Underscore.JS and each instruction allowed me to prepare for the timed in-class WODs which I stressed about weekly.
+
   2. In-class Practice WODs
 
+In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see different approaches toward solving problems using code. Here, I used ChatGPT when I was not able to understand the prompt or others' opinions and asked for example, "How can I approach the following issue using Underscore.JS: ... "
+
   3. In-class WODs
+
+
 
   4. Essays
 
