@@ -12,7 +12,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/ai/ai-hands.jpeg" width="400px">
+    <img src="../img/ai/ai-hands.jpeg" width="500px">
 </div>
 
 ### I. Introduction
