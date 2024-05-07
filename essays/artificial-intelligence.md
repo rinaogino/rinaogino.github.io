@@ -12,7 +12,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;" width="250px">
+    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;" width="200px">
 </div>
 
 "Explore how AI tools, methodologies, or concepts have influenced your learning, understanding, and application of software engineering principles."
