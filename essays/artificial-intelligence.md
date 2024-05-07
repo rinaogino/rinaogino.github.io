@@ -27,7 +27,9 @@ So, is AI going to take over the world? No, not necessarily. AI may be useful in
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
+
 In the 63 experience WODs, I did not utilize AI. Most of the experiences included video explanations of step-to-step instructions on completing the assignments, and I felt that it was better to follow those resources instead of fully depending on AI to understand the material.
+
   2. In-class Practice WODs
 
   3. In-class WODs
