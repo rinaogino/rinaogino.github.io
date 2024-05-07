@@ -11,8 +11,8 @@ labels:
   - Programming
 ---
 
-<div class="text-center p-4">
-<img width="300px" class="rounded float-start pe-4" src="../img/coding-meme.jpeg" class="img-thumbnail" >
+<div style="text-align: center;">
+  <img width="300px" src="../img/coding-meme.jpeg" >
 </div>
 
 ## How did I get here?
@@ -29,4 +29,4 @@ Furthermore, I am enthusiastic about the upcoming challenges in software enginee
 
 With the dynamic growth of the computer science field, my aspirations extend towards expanding my expertise in data science and artificial intelligence. I have always had an interest in databases and with the use of artificial intelligence and cloud computing, my goal is to conduct research on the impact of conversational AI on shaping our future.
 
-**Note that I used ChatGPT to improve grammar and spelling in this document*
+*I used ChatGPT to improve grammar and spelling in this document.*
