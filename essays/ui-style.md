@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Behind the Screens: My Journey with UI Frameworks"
+title: "Behind the Screens"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
