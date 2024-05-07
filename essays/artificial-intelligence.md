@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "The Intelligence of Arificial Intelligence"
 # All dates must be YYYY-MM-DD format!
-date: 2024-04-25
+date: 2024-05-06
 published: true
 labels:
   - Artificial Intelligence
@@ -12,12 +12,14 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;">
+    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;" width="300px">
 </div>
 
+"Explore how AI tools, methodologies, or concepts have influenced your learning, understanding, and application of software engineering principles."
 
 ### I. Introduction
 
+By now, majority of the world
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
