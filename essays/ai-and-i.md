@@ -30,6 +30,7 @@ I have used AI in class this semester in the following areas:
 <br>
 In the past 63 experience WODs, I did not utilize AI. Most of the experiences included video explanations of step-by-step instructions on completing the assignments, and I felt that it was better to follow those resources instead of depending on AI to understand the material. As a visual learner, it was helpful to see the Professors' live recordings so that I can follow along and detect any mistakes that I have made. In [E18](https://courses.ics.hawaii.edu/ics314s24/morea/javascript-3/experience-underscore.html), I took my first step into functional programming utilizing Underscore.JS. I had no idea what Underscore.JS really was, but I found the given resources to be more than enough, and going over each instruction allowed me to prepare for the timed in-class WODs which I usually stressed about.
 <br>
+
   2. In-class Practice WODs
 <br>
 In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see others' different approaches toward solving coding problems. In this case, I used ChatGPT when I was not able to my classmates' approaches or the prompt itself. I would ask, for example, "How can I approach the following issue using Underscore.JS: ... " and ChatGPT would list out what I must do along with an example snippet code. I then would compare what ChatGPT gave me with what my group came up with, and find a overall solution.
