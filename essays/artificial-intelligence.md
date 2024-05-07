@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Intelligence of Arificial Intelligence"
+title: "Are AI and I friends?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-06
 published: true
@@ -12,7 +12,7 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;" width="300px">
+    <img src="../img/ai/ai-hands.jpeg" style="width:50%; height:50%;" width="250px">
 </div>
 
 "Explore how AI tools, methodologies, or concepts have influenced your learning, understanding, and application of software engineering principles."
