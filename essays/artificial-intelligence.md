@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Are AI and I friends?"
+title: "AI and I"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-06
 published: true
@@ -12,73 +12,49 @@ labels:
 ---
 
 <div style="text-align: center;">
-    <img src="../img/ai/ai-hands.jpeg" width="300px">
+    <img src="../img/ai/ai-hands.jpeg" width="400px">
 </div>
-
-"Explore how AI tools, methodologies, or concepts have influenced your learning, understanding, and application of software engineering principles."
 
 ### I. Introduction
 
-By now, majority of the world knows about artifi
+By now, there are approximately 180.5 million users of ChatGPT, which certainly proves the enormous influence of artificial intelligence (AI) in this world. Ever since my friend from univeristy introduced me to this tool, I have somehow implemented it into majority of my courses, especially in ICS 314: Software Engineering. From simple grammar and syntax corrections, AI has the ability to write essays and code in seconds, providing efficient and secure solutions.
+
+As AI has become a part of modern education, many schools are starting to utilize it and it has revolutionized the way students learn as well as how schools or teachers facilitate. In ICS 314, ChatGPT or Co-Pilot may have been used to fix any bugs and to choose which function/class to use for successful code output (e.g. picking out Underscore functionality). In general, AI can be used toward almost anything including finding the right baking recipe to an color analysis of one self. 
+
+So, is AI going to take over the world? No, not necessarily. AI may be useful in many perspectives, but it cannot be fully depended on. Though I believe it will be much more utilized in the future, especially in software engineering.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
   1. Experience WODs e.g. E18
 
-  Write
+In the 63 experience WODs, I did not utilize AI. Most of the experiences included video explanations of step-to-step instructions on completing the assignments, and I felt that it was better to follow those resources instead of fully depending on AI to understand the material.
 
   2. In-class Practice WODs
 
-  Write
-
   3. In-class WODs
-
-  Write
 
   4. Essays
 
-  Write
-
   5. Final project
-
-  Write
 
   6. Learning a concept / tutorial
 
-  Write
-
   7. Answering a question in class or in Discord
-
-  Write
 
   8. Asking or answering a smart-question
 
-  Write
-
   9. Coding example e.g. “give an example of using Underscore .pluck”
-
-  Write
 
   10. Explaining code
 
-  Write
-
   11. Writing code
-
-  Write
 
   12. Documenting code
 
-  Write
-
-  13. Quality assurance
-
-  Write
+  13. Quality assurance 
 
   14. Other uses in ICS 314 not listed above
-
-  Write
 
 
 ### III. Impact on Learning and Understanding:
@@ -97,3 +73,5 @@ I have used AI in class this semester in the following areas:
 
 
 ### VIII. Conclusion:
+
+I believe AI will continue to advance, and I am curious as to how it will impact software development in 10 years from now.
