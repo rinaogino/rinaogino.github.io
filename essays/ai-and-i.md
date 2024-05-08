@@ -34,7 +34,8 @@ I have used AI in class this semester in the following areas:
 
   4. Essays <br>I am not much of a creative writer nor have perfect grammar, so I utilized AI in many of my essays. I used ChatGPT to ask for a template of what I can write, and in which order for the essay to sound as engaging as possible. I would write out the essay myself then input it into ChatGPT, to make sure that it somehow followed the template while checking if it looked and sounded professional. I understand that essays are more-so creative writing in our own words, and AI may take away that by re-stating the essay itself in not so human-like words, but I liked the immediate feedback--that I believe helped me greatly in making my essays sound more engaging.
 
-  5. Final project <br>For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code: <br>
+  5. Final project <br>For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code:
+
 ```
 const AddStudent = () => {
   const [selectedImage, setSelectedImage] = useState(null);
@@ -125,6 +126,7 @@ const AddStudent = () => {
 
 export default AddStudent;
 ```
+
 With having no knowledge on the functionality of image uploads, this quick code that ChatGPT wrote out to me turned out to run successfully.
   
   6. Learning a concept / tutorial <br>Like the example I provided above in learning a new functionality, I used ChatGPT to learn a concept / tutorial. ChatGPT was able to provide me with instructions on how a task could be could be done, and I liked that it always provided me with examples that I could follow.
@@ -139,7 +141,8 @@ With having no knowledge on the functionality of image uploads, this quick code 
 
   11. Writing code <br>Although I have always tried to write code from scratch using my own knowledge and given resources, there were many times where I turned to ChatGPT to write out my code. Especially in the timed WODs where I felt stressed out and my mind went blank at times, I had AI to assist me with what I should write in order to get a successful output.
 
-  12. Documenting code <br>I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code: <br>
+  12. Documenting code <br>I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code:
+
 ```
 function calculateRectangleArea(width, height) {
   return width * height;
