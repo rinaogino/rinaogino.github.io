@@ -46,8 +46,8 @@ I am not much of a creative writer nor have perfect grammar, so I utilized AI in
    
 For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code:
 
-  ```javascript
-   const AddStudent = () => {
+```javascript
+const AddStudent = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleFileUpload = (e) => {
@@ -135,8 +135,8 @@ For my final project, I wanted to try and apply my knowledge and skills develope
 };
 
 export default AddStudent;
-   ```
-   With having no knowledge on the functionality of image uploads, this quickly generated code that ChatGPT wrote out to me turned out to run successfully.
+```
+With having no knowledge on the functionality of image uploads, this quickly generated code that ChatGPT wrote out to me turned out to run successfully.
   
 &emsp;6.&nbsp;Learning a concept / tutorial  
   
@@ -166,44 +166,45 @@ Although I have always tried to write code from scratch using my own knowledge a
   
 I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code.
 
-  ```javascript
-  function calculateRectangleArea(width, height) {
-    return width * height;
-  }
+```javascript
+function calculateRectangleArea(width, height) {
+  return width * height;
+}
 
-  const width = 5;
-  const height = 10;
-  const area = calculateRectangleArea(width, height);
-  console.log(`The area of the rectangle is: ${area}`);
-   ```
-   ChatGPT provided me with the following documentation:
-   ```javascript
-   // Define a function to calculate the area of a rectangle
-  function calculateRectangleArea(width, height) {
+const width = 5;
+const height = 10;
+const area = calculateRectangleArea(width, height);
+console.log(`The area of the rectangle is: ${area}`);
+```
+ChatGPT provided me with the following documentation:
+```javascript
+// Define a function to calculate the area of a rectangle
+function calculateRectangleArea(width, height) {
   // Multiply the width and height to get the area
-    return width * height;
-  }
+  return width * height;
+}
 
-  const width = 5; // Define the width of the rectangle
-  const height = 10; // Define the height of the rectangle
-  const area = calculateRectangleArea(width, height); // Calculate the area using the function
-  console.log(`The area of the rectangle is: ${area}`); // Output the calculated area
-   ```
-  However, if I were writing out the documentation, it would look like this for my own understanding:
-   ```javascript
-   // Function to calculate area of rectangle.
-  function calculateRectangleArea(width, height) {
-    return width * height;
-  }
+// Example usage
+const width = 5; // Define the width of the rectangle
+const height = 10; // Define the height of the rectangle
+const area = calculateRectangleArea(width, height); // Calculate the area using the function
+console.log(`The area of the rectangle is: ${area}`); // Output the calculated area
+```
+However, if I were writing out the documentation, it would look like this for my own understanding:
+```javascript
+// Function to calculate area of rectangle.
+function calculateRectangleArea(width, height) {
+  return width * height;
+}
 
-  // Initialize variables.
-  const width = 5;
-  const height = 10;
-  // Calculate area with width and height.
-  const area = calculateRectangleArea(width, height);
-  // Print output.
-  console.log(`The area of the rectangle is: ${area}`);
-   ```
+// Initialize variables.
+const width = 5;
+const height = 10;
+// Calculate area with width and height.
+const area = calculateRectangleArea(width, height);
+ // Print output.
+console.log(`The area of the rectangle is: ${area}`);
+```
 
 &emsp;13.&nbsp;Quality assurance  
 
