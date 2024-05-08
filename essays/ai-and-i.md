@@ -26,13 +26,13 @@ However, can AI really give us all the answers? No, not necessarily. AI may be u
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1. Experience WODs e.g. E18  
+1.Experience WODs e.g. E18  
    In the past 63 experience WODs, I did not utilize AI. Most of the experiences included screencasts of step-by-step instructions on completing the assignments provided by the instructors, and I felt that it was better to follow these given resources instead of depending on AI to understand the material. As a visual learner, it was helpful to watch the Professors' solve the similar prompt in their perspective, which allowed me to follow along and detect any mistakes that I may have made. In [E18](https://courses.ics.hawaii.edu/ics314s24/morea/javascript-3/experience-underscore.html), I took my first look into functional programming utilizing Underscore.JS. I had no idea what Underscore.JS really was, but given the resources, I felt that I was able to pick this up quickly.
 
-2. In-class Practice WODs  
+2.In-class Practice WODs  
    In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see others' different approaches toward solving coding problems. In this case, I used ChatGPT when I was not able to my classmates' approaches or the prompt itself. I would ask, for example, "How can I approach the following issue using Underscore.JS: <insert prompt>" and ChatGPT would list out what I must do along with an example snippet code. I then would compare what ChatGPT gave me with what my group came up with, and find a overall solution.
 
-3. In-class WODs  
+3.In-class WODs  
    With the pressure of having to clear each WOD and receive a 100% score (WODs were based on 'all or nothing' scoring system), I used AI for majority of the in-class WODs. If I were stuck on a specific step during the WOD, I knew that I did not have enough time to look it up, so I would ask ChatGPT to summarize what I needed to do in order to successfully complete the WOD (I would use a similar question as the in-class practice WODs mentioned above). Additionally, at the very end of each WOD, to ensure that my code would run without any errors, I would input my entire code to ChatGPT and confirm before stressing myself out by seeing warnings in the output console.
 
 4. Essays  
