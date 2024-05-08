@@ -26,18 +26,23 @@ However, can AI really give us all the answers? No, not necessarily. AI may be u
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-Experience WODs e.g. E18 <br>In the past 63 experience WODs, I did not utilize AI. Most of the experiences included screencasts of step-by-step instructions on completing the assignments provided by the instructors, and I felt that it was better to follow these given resources instead of depending on AI to understand the material. As a visual learner, it was helpful to watch the Professors' solve the similar prompt in their perspective, which allowed me to follow along and detect any mistakes that I may have made. In [E18](https://courses.ics.hawaii.edu/ics314s24/morea/javascript-3/experience-underscore.html), I took my first look into functional programming utilizing Underscore.JS. I had no idea what Underscore.JS really was, but given the resources, I felt that I was able to pick this up quickly.
+1. Experience WODs e.g. E18  
+   In the past 63 experience WODs, I did not utilize AI. Most of the experiences included screencasts of step-by-step instructions on completing the assignments provided by the instructors, and I felt that it was better to follow these given resources instead of depending on AI to understand the material. As a visual learner, it was helpful to watch the Professors' solve the similar prompt in their perspective, which allowed me to follow along and detect any mistakes that I may have made. In [E18](https://courses.ics.hawaii.edu/ics314s24/morea/javascript-3/experience-underscore.html), I took my first look into functional programming utilizing Underscore.JS. I had no idea what Underscore.JS really was, but given the resources, I felt that I was able to pick this up quickly.
 
-2. In-class Practice WODs <br>In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see others' different approaches toward solving coding problems. In this case, I used ChatGPT when I was not able to my classmates' approaches or the prompt itself. I would ask, for example, "How can I approach the following issue using Underscore.JS: <insert prompt>" and ChatGPT would list out what I must do along with an example snippet code. I then would compare what ChatGPT gave me with what my group came up with, and find a overall solution.
+2. In-class Practice WODs  
+   In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see others' different approaches toward solving coding problems. In this case, I used ChatGPT when I was not able to my classmates' approaches or the prompt itself. I would ask, for example, "How can I approach the following issue using Underscore.JS: <insert prompt>" and ChatGPT would list out what I must do along with an example snippet code. I then would compare what ChatGPT gave me with what my group came up with, and find a overall solution.
 
-3. In-class WODs <br>With the pressure of having to clear each WOD and receive a 100% score (WODs were based on 'all or nothing' scoring system), I used AI for majority of the in-class WODs. If I were stuck on a specific step during the WOD, I knew that I did not have enough time to look it up, so I would ask ChatGPT to summarize what I needed to do in order to successfully complete the WOD (I would use a similar question as the in-class practice WODs mentioned above). Additionally, at the very end of each WOD, to ensure that my code would run without any errors, I would input my entire code to ChatGPT and confirm before stressing myself out by seeing warnings in the output console. 
+3. In-class WODs  
+   With the pressure of having to clear each WOD and receive a 100% score (WODs were based on 'all or nothing' scoring system), I used AI for majority of the in-class WODs. If I were stuck on a specific step during the WOD, I knew that I did not have enough time to look it up, so I would ask ChatGPT to summarize what I needed to do in order to successfully complete the WOD (I would use a similar question as the in-class practice WODs mentioned above). Additionally, at the very end of each WOD, to ensure that my code would run without any errors, I would input my entire code to ChatGPT and confirm before stressing myself out by seeing warnings in the output console.
 
-4. Essays <br>I am not much of a creative writer nor have perfect grammar, so I utilized AI in many of my essays. I used ChatGPT to ask for a template of what I can write, and in which order for the essay to sound as engaging as possible. I would write out the essay myself then input it into ChatGPT, to make sure that it somehow followed the template while checking if it looked and sounded professional. I understand that essays are more-so creative writing in our own words, and AI may take away that by re-stating the essay itself in not so human-like words, but I liked the immediate feedback--that I believe helped me greatly in making my essays sound more engaging.
+4. Essays  
+   I am not much of a creative writer nor have perfect grammar, so I utilized AI in many of my essays. I used ChatGPT to ask for a template of what I can write, and in which order for the essay to sound as engaging as possible. I would write out the essay myself then input it into ChatGPT, to make sure that it somehow followed the template while checking if it looked and sounded professional. I understand that essays are more-so creative writing in our own words, and AI may take away that by re-stating the essay itself in not so human-like words, but I liked the immediate feedback--that I believe helped me greatly in making my essays sound more engaging.
 
-5. Final project <br>For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code:
+5. Final project  
+   For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code:
 
-```
-const AddStudent = () => {
+  ```javascript
+   const AddStudent = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   const handleFileUpload = (e) => {
@@ -125,65 +130,74 @@ const AddStudent = () => {
 };
 
 export default AddStudent;
-```
-With having no knowledge on the functionality of image uploads, this quick code that ChatGPT wrote out to me turned out to run successfully.
+   ```
+   With having no knowledge on the functionality of image uploads, this quickly generated code that ChatGPT wrote out to me turned out to run successfully.
   
-6. Learning a concept / tutorial <br>Like the example I provided above in learning a new functionality, I used ChatGPT to learn a concept / tutorial. ChatGPT was able to provide me with instructions on how a task could be could be done, and I liked that it always provided me with examples that I could follow.
-
-7. Answering a question in class or in Discord <br>Without the use of AI, I used my own knowledge to answer a question in class or in Discord. If I was unable to explain a prompt myself, I would not answer a question in the first place because I do not want to risk giving anyone mistaken information, which may lead another into extra unnecessary errors. 
+6. Learning a concept / tutorial  
+   Like the example I provided above in learning a new functionality, I used ChatGPT to learn a concept / tutorial. ChatGPT was able to provide me with instructions on how a task could be could be done, and I liked that it always provided me with examples that I could follow.
   
-8. Asking or answering a smart-question <br>Similar to answering a question in class or in Discord, I did not use AI to ask or answer a smart-question. If I were asking a smart-question, I would prefer to address the issue in my own words so that nothing is fabricated, and that I am able to show my understanding to a certain extent so that another could help me figure out what is beyond that. Also, if I don't understand my own issue, then there is a possibility that I wouldn't understand the answer to it. Likewise, if I were looking for an answer for a smart-question, I would prefer for the answer to be described in human-like, easy terms so I did not use AI to answer any questions. Throughout this course, I have probably answered one or two smart-questions, and they were mainly about errors. Hence, I liked to include my own experiences of walking through the task, and I felt that describing my classmates' error in my own words helped me achieve finding their solutions best.
-  
-9. Coding example e.g. “give an example of using Underscore .pluck” <br>I have definitely used AI to generate a coding example. The given example was something similar to what I asked AI, as I struggled with picking the right library to use throughout Underscore. Also, instead of asking for an example, I would also use ChatGPT to generate which Underscore libraries I should use toward specific prompts.
+7. Answering a question in class or in Discord  
+   Without the use of AI, I used my own knowledge to answer a question in class or in Discord. If I was unable to explain a prompt myself, I would not answer a question in the first place because I do not want to risk giving anyone mistaken information, which may lead another into extra unnecessary errors.
 
-10. Explaining code <br>As I mentioned for the in-class practice WODs, I have used AI when I did not understand others' approaches toward a certain prompt. Although my group mates were typically nice and attempted to explain their different approaches to me, I made sure that I comprehended what was going on by utilizing ChatGPT.
+8. Asking or answering a smart-question  
+   Similar to answering a question in class or in Discord, I did not use AI to ask or answer a smart-question. If I were asking a smart-question, I would prefer to address the issue in my own words so that nothing is fabricated, and that I am able to show my understanding to a certain extent so that another could help me figure out what is beyond that. Also, if I don't understand my own issue, then there is a possibility that I wouldn't understand the answer to it. Likewise, if I were looking for an answer for a smart-question, I would prefer for the answer to be described in human-like, easy terms so I did not use AI to answer any questions. Throughout this course, I have probably answered one or two smart-questions, and they were mainly about errors. Hence, I liked to include my own experiences of walking through the task, and I felt that describing my classmates' error in my own words helped me achieve finding their solutions best.
 
-11. Writing code <br>Although I have always tried to write code from scratch using my own knowledge and given resources, there were many times where I turned to ChatGPT to write out my code. Especially in the timed WODs where I felt stressed out and my mind went blank at times, I had AI to assist me with what I should write in order to get a successful output.
+9. Coding example e.g. “give an example of using Underscore .pluck”  
+   I have definitely used AI to generate a coding example. The given example was something similar to what I asked AI, as I struggled with picking the right library to use throughout Underscore. Also, instead of asking for an example, I would also use ChatGPT to generate which Underscore libraries I should use toward specific prompts.
 
-12. Documenting code <br>I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code:
+10. Explaining code  
+    As I mentioned for the in-class practice WODs, I have used AI when I did not understand others' approaches toward a certain prompt. Although my group mates were typically nice and attempted to explain their different approaches to me, I made sure that I comprehended what was going on by utilizing ChatGPT.
 
-```
-function calculateRectangleArea(width, height) {
-  return width * height;
-}
+11. Writing code  
+    Although I have always tried to write code from scratch using my own knowledge and given resources, there were many times where I turned to ChatGPT to write out my code. Especially in the timed WODs where I felt stressed out and my mind went blank at times, I had AI to assist me with what I should write in order to get a successful output.
 
-const width = 5;
-const height = 10;
-const area = calculateRectangleArea(width, height);
-console.log(`The area of the rectangle is: ${area}`);
-```
-ChatGPT provided me with the following documentation:
-```
-// Define a function to calculate the area of a rectangle
-function calculateRectangleArea(width, height) {
+12. Writing code  
+    I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code.
+
+  ```javascript
+  function calculateRectangleArea(width, height) {
+    return width * height;
+  }
+
+  const width = 5;
+  const height = 10;
+  const area = calculateRectangleArea(width, height);
+  console.log(`The area of the rectangle is: ${area}`);
+   ```
+   ChatGPT provided me with the following documentation:
+   ```javascript
+   // Define a function to calculate the area of a rectangle
+  function calculateRectangleArea(width, height) {
   // Multiply the width and height to get the area
-  return width * height;
-}
+    return width * height;
+  }
 
-const width = 5; // Define the width of the rectangle
-const height = 10; // Define the height of the rectangle
-const area = calculateRectangleArea(width, height); // Calculate the area using the function
-console.log(`The area of the rectangle is: ${area}`); // Output the calculated area
-```
-However, if I were writing out the documentation, it would look like this:
-```
-// Function to calculate area of rectangle.
-function calculateRectangleArea(width, height) {
-  return width * height;
-}
+  const width = 5; // Define the width of the rectangle
+  const height = 10; // Define the height of the rectangle
+  const area = calculateRectangleArea(width, height); // Calculate the area using the function
+  console.log(`The area of the rectangle is: ${area}`); // Output the calculated area
+   ```
+  However, if I were writing out the documentation, it would look like this for my own understanding:
+   ```javascript
+   // Function to calculate area of rectangle.
+  function calculateRectangleArea(width, height) {
+    return width * height;
+  }
 
-// Initialize variables.
-const width = 5;
-const height = 10;
-// Calculate area with width and height.
-const area = calculateRectangleArea(width, height);
-// Print output.
-console.log(`The area of the rectangle is: ${area}`);
-```
+  // Initialize variables.
+  const width = 5;
+  const height = 10;
+  // Calculate area with width and height.
+  const area = calculateRectangleArea(width, height);
+  // Print output.
+  console.log(`The area of the rectangle is: ${area}`);
+   ```
 
-13. Quality assurance <br>ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
+13. Quality assurance  
+    ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
 
-14. Other uses in ICS 314 not listed above <br>Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
+14. Other uses in ICS 314 not listed above  
+    Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
 
 
 ### III. Impact on Learning and Understanding:
