@@ -193,11 +193,13 @@ export default AddStudent;
   console.log(`The area of the rectangle is: ${area}`);
    ```
 
-  13.<br>Quality assurance  
-    ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
+  13.&nbsp;Quality assurance  
 
-  14.<br>Other uses in ICS 314 not listed above  
-    Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
+ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
+
+  14.&nbsp;Other uses in ICS 314 not listed above 
+
+Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
 
 
 ### III. Impact on Learning and Understanding:
