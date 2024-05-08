@@ -139,9 +139,9 @@ With having no knowledge on the functionality of image uploads, this quick code 
 
   10. Explaining code <br>As I mentioned for the in-class practice WODs, I have used AI when I did not understand others' approaches toward a certain prompt. Although my group mates were typically nice and attempted to explain their different approaches to me, I made sure that I comprehended what was going on by utilizing ChatGPT.
 
-  11. Writing code <br>Although I have always tried to write code from scratch using my own knowledge and given resources, there were many times where I turned to ChatGPT to write out my code. Especially in the timed WODs where I felt stressed out and my mind went blank at times, I had AI to assist me with what I should write in order to get a successful output.
+11. Writing code <br>Although I have always tried to write code from scratch using my own knowledge and given resources, there were many times where I turned to ChatGPT to write out my code. Especially in the timed WODs where I felt stressed out and my mind went blank at times, I had AI to assist me with what I should write in order to get a successful output.
 
-  12. Documenting code <br>I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code:
+12. Documenting code <br>I do not recall using AI to document code. I believe ICS 314 provided students with enough resources to learn how to document code. Otherwise, I would prefer to document code in my own words so that I understand what is happening when I go back to the code. For instance, when we look at the following code:
 
 ```
 function calculateRectangleArea(width, height) {
@@ -182,9 +182,9 @@ const area = calculateRectangleArea(width, height);
 console.log(`The area of the rectangle is: ${area}`);
 ```
 
-  13. Quality assurance <br>ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
+13. Quality assurance <br>ChatGPT was helpful for quality assurance, especially for writing essays. It always assured me and gave me advice when my essay had the potential to improve. However, in a software engineering perspective, I mainly depended on ESLint, as it would point out any fixes needed to make my code run better or to overall become more organized.
 
-  14. Other uses in ICS 314 not listed above <br>Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
+14. Other uses in ICS 314 not listed above <br>Besides the experiences I have with AI in ICS 314 as listed above, I have only utilized ChatGPT to summarize readings. The instructors of ICS 314 would probably not want to hear this, but I have never been able to read an entire page or article without getting side tracked, as I would have to re-read from the top over and over. Therefore, I have always not read the given readings in full, but summarized them to a certain extent. Nevertheless, I would like to emphasize that I have learnt more than enough information in ICS 314!
 
 
 ### III. Impact on Learning and Understanding:
