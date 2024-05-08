@@ -13,7 +13,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/javascripticon.png">
 
-When initially diving into the realm of programming, I have this feeling of anxiety and stress crawling up my spine. It's supposed to be a fun experience of learning something new, but it feels overwhelming to me. As a born perfectionist, I get dismotivated easily if I don't get it on the first few tries. Hence, computer science has been a pretty humbling experience for myself, yet, it is addicting because of the feeling of accomplishment I feel when my code runs successfully. I always have a on-and-off relationship with programming, but that was my journey that led me here, as I now take on another challenge with learning a new programming language: JavaScript.
+When initially diving into the realm of programming, I have this feeling of anxiety and stress crawling up my spine. It's supposed to be a fun experience of learning something new, but it feels overwhelming to me. Born as a perfectionist, I get dismotivated easily if I don't get it on the first few tries. Hence, computer science has been a pretty humbling experience for myself, yet, it is also addicting because of the accomplishing feeling when my code runs successfully. I always have a on-and-off relationship with programming, but that was my journey that led me here, as I now take on another challenge with JavaScript.
 
 ## Getting Comfortable
 
