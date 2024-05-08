@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" , "Unix" , "Visual Studio Code" ]
+      "keywords": [ "Git/GitHub" , "macOS", "Unix" , "Emacs", "Visual Studio Code", "IntelliJ IDEA", "Npm" ]
     }
   ],
   "education": [
@@ -67,10 +67,10 @@
       "endDate": "Present",
       "summary": "Student Assistant for Academic Advisors",
       "highlights": [
-        "Maintain and update website, social media, calendar, and weekly newsletters",
-        "Manage and secure confidential information in the UH database",
-        "Respond to students' questions or concerns in an efficient and appropriate manner",
-        "Evaluate and analyze data from student surveys"
+        "Implement and maintain user-friendly website using HTML, send out weekly newsletters to expand available resources and opportunities for students",
+        "Design and publish 5+ weekly posts on social media, resulting in 78% outreach in span of one year",
+        "Manage and secure document processing with precise data entry while ensuring data confidentiality in compliance with FERPA",
+        "Lead project on Alumni Survey Analysis encompassing approximately 1200 responses, and identify key insights to present to the department for results in improving resource allocation"
       ]
     }
   ],
@@ -83,8 +83,9 @@
       "endDate": "Present",
       "summary": "Student Assistant for Librarians",
       "highlights": [
-        "Implement the integration of all books into the RFID system",
-        "Manage and rearrange bookshelves"
+        "Implement 200+ books into the RFID system, streamlining book identification processes and enhancing library efficiency",
+        "Organize and rearrange bookshelves for optimal public access and usability",
+        "Deliver assistance to library users in navigating technology, guidance on device usage, and digital catalog access"
       ]
     }
   ],
