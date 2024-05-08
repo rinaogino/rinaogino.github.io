@@ -126,7 +126,6 @@ const AddStudent = () => {
 
 export default AddStudent;
 ```
-
 With having no knowledge on the functionality of image uploads, this quick code that ChatGPT wrote out to me turned out to run successfully.
   
 6. Learning a concept / tutorial <br>Like the example I provided above in learning a new functionality, I used ChatGPT to learn a concept / tutorial. ChatGPT was able to provide me with instructions on how a task could be could be done, and I liked that it always provided me with examples that I could follow.
