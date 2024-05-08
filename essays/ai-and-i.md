@@ -26,19 +26,19 @@ However, can AI really give us all the answers? No, not necessarily. AI may be u
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1.Experience WODs e.g. E18  
+  1. Experience WODs e.g. E18  
    In the past 63 experience WODs, I did not utilize AI. Most of the experiences included screencasts of step-by-step instructions on completing the assignments provided by the instructors, and I felt that it was better to follow these given resources instead of depending on AI to understand the material. As a visual learner, it was helpful to watch the Professors' solve the similar prompt in their perspective, which allowed me to follow along and detect any mistakes that I may have made. In [E18](https://courses.ics.hawaii.edu/ics314s24/morea/javascript-3/experience-underscore.html), I took my first look into functional programming utilizing Underscore.JS. I had no idea what Underscore.JS really was, but given the resources, I felt that I was able to pick this up quickly.
 
-2.In-class Practice WODs  
+  2. In-class Practice WODs  
    In-class practice WODs were completed in groups of randomly chosen classmates, so it was interesting to see others' different approaches toward solving coding problems. In this case, I used ChatGPT when I was not able to my classmates' approaches or the prompt itself. I would ask, for example, "How can I approach the following issue using Underscore.JS: <insert prompt>" and ChatGPT would list out what I must do along with an example snippet code. I then would compare what ChatGPT gave me with what my group came up with, and find a overall solution.
 
-3.In-class WODs  
+  3. In-class WODs  
    With the pressure of having to clear each WOD and receive a 100% score (WODs were based on 'all or nothing' scoring system), I used AI for majority of the in-class WODs. If I were stuck on a specific step during the WOD, I knew that I did not have enough time to look it up, so I would ask ChatGPT to summarize what I needed to do in order to successfully complete the WOD (I would use a similar question as the in-class practice WODs mentioned above). Additionally, at the very end of each WOD, to ensure that my code would run without any errors, I would input my entire code to ChatGPT and confirm before stressing myself out by seeing warnings in the output console.
 
-4. Essays  
+  4. Essays  
    I am not much of a creative writer nor have perfect grammar, so I utilized AI in many of my essays. I used ChatGPT to ask for a template of what I can write, and in which order for the essay to sound as engaging as possible. I would write out the essay myself then input it into ChatGPT, to make sure that it somehow followed the template while checking if it looked and sounded professional. I understand that essays are more-so creative writing in our own words, and AI may take away that by re-stating the essay itself in not so human-like words, but I liked the immediate feedback--that I believe helped me greatly in making my essays sound more engaging.
 
-5. Final project  
+  5. Final project  
    For my final project, I wanted to try and apply my knowledge and skills developed from ICS 314, so I tried to minimize the use of AI. However, I did end up utilizing AI for functionality that we had never learnt in class such as the image upload. Hence, I would ask, "I want to implement a button and functions to upload images. Here is what I have for now: <insert code>" Then, ChatGPT provided me with the following code:
 
   ```javascript
