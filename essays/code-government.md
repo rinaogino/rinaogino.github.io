@@ -35,9 +35,9 @@ Below is an image of how ESLint shows up when you have errors (I have modified c
 Below are images of the errors ESLint detected along with numerous suggestions:
 
 <div class="text-center p-4">
-    <img width="500px" src="../img/improvingcode/eslint-arrayerror.png" class="img-thumbnail">
-    <img width="500px" src="../img/improvingcode/eslint-reassignerror.png" class="img-thumbnail">
-    <img width="500px" src="../img/improvingcode/eslint-equalrec.png" class="img-thumbnail">
+    <img width="500px" src="../img/improvingcode/eslint-arrayerror.png">
+    <img width="500px" src="../img/improvingcode/eslint-reassignerror.png">
+    <img width="500px" src="../img/improvingcode/eslint-equalrec.png">
 </div>
 
 Looking at the images above, we can see that ESLint detected fixes and let me know with red warning marks all over the code and scroll bar. They also gave suggestions on what I can do to improve my code! This was another surprise, where I found ESLint to be impressive for easy use and precisiveness in following code standard. Here, I started to think that ESLint is something that I needed all this time... I tend to stick with what I first learn and make them habits, however, ESLint offered me an opportunity to improve what I've been learning wrong. With around 2 clicks of ESLint advancements, I had the green checkmark in no time. This made me feel like a better programmer already, as my code executed smoothly as well. I could also share the code with another without having any errors on their end.
