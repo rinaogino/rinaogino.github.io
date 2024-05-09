@@ -3,11 +3,12 @@ layout: project
 type: project
 image: img/math-logo.jpg
 title: "Mathematics Tutoring"
-date: 2024
+date: 2021
 published: true
 labels:
-  - Mathematics
+  - Mentorship
   - Education
+  - Mathematics
 summary: "My experience in peer tutoring a high school student in mathematics."
 ---
 
