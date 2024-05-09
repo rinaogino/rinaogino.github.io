@@ -33,6 +33,6 @@ In my experience, I have worked on a few short projects to re-create simple webs
 
 *Original image of website on left, my re-creation of website on right.*
 
-The website looks pretty simple, but to obtain my re-creation that does not look too similar to the original website, it took me almost the entire day to complete and approximately 150 lines of code. When I reflect on the code though, it is rather short. Why? It's because I utilized Bootstrap! To code from scratch, Bootstrap offered a robust framework with elements that supported me in detecting which elements work best to develop my interface. 
+The website looks pretty simple, but to obtain my re-creation that does not look too similar to the original website took me almost the entire day to complete and approximately 150 lines of code. When I reflect on the code though, it is rather short. Why? It's because I utilized the Bootstrap.JS! To code from scratch, Bootstrap offered a robust framework with elements that supported me in detecting which elements work best to develop my interface. 
 
 Hence, Bootstrap has much enhanced productivity in my UI projects and it is great in the long run. Using their libraries shorten code you probably would repetitively write in CSS. As a web developer, I am excited to get used to integrating websites with different types of frameworks and seeing which one I can unlock behind the screens with!
