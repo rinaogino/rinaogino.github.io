@@ -36,7 +36,11 @@ Below are images of the errors ESLint detected along with numerous suggestions:
 
 <div class="text-center p-4">
     <img width="500px" src="../img/improvingcode/eslint-arrayerror.png">
+</div>
+<div class="text-center p-4">
     <img width="500px" src="../img/improvingcode/eslint-reassignerror.png">
+</div>
+<div class="text-center p-4">
     <img width="500px" src="../img/improvingcode/eslint-equalrec.png">
 </div>
 
