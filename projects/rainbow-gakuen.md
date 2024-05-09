@@ -21,8 +21,8 @@ The classes were divided into six blocks, each focusing on history, culture, rea
 ## Field Day Project
 
 <div class="text-center p-4">
-<img width="500px" src="../img/sportsday1.jpeg" class="img-thumbnail" >
-<img width="500px" src="../img/sportsday2.jpeg" class="img-thumbnail" >
+<img width="500px" src="../img/sportsday1.jpeg" >
+<img width="500px" src="../img/sportsday2.jpeg" >
 </div>
 
 During an exciting week each school year, there was an annual sports day where students would be split into teams of red and white and competed against each other. The event included of various sports activities such as 100m sprint races, team relays, ball throwing, and more. Finally, there was a dance performance choreographed by the 8th grade students each year. 
