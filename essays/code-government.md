@@ -29,7 +29,7 @@ As a learning programmer in JavaScript, one tool that I have been utilizing to f
 Below is an image of how ESLint shows up when you have errors (I have modified code so that it relates to the context):
 
 <div class="text-center p-4">
-    <img width="500px" src="../img/improvingcode/eslint-errormarks.png" class="img-thumbnail">
+    <img width="500px" src="../img/improvingcode/eslint-errormarks.png">
 </div>
 
 Below are images of the errors ESLint detected along with numerous suggestions:
