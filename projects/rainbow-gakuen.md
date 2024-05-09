@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/reinbow.jpg
 title: "Rainbow Gakuen"
-date: 2024
+date: 2019
 published: true
 labels:
   - Japanese
@@ -37,4 +37,4 @@ Finally, the day arrived where all of our efforts would be showcased to the enti
 <img width="500px" src="../img/rainbow-graduation.JPG" >
 </div>
 
-Besides the frightening details on how rigorous weekly Japanese school was, I formed enduring friendships. My classmates and I still reminisce about the intense testing and stress we faced, but truthfully it was the most significant project of our lives. I learned the importance of language learning, exposed me to a whole new language, and what I am capable of. レインボー学園、ありがとうございました。(translates to "thank you Rainbow Gakuen)
+Besides the frightening details on how rigorous weekly Japanese school was, I formed enduring friendships. My classmates and I still reminisce about the intense testing and stress we faced, but truthfully it was the most significant project of our lives. I learned the importance of language learning, exposed me to a whole new language, and what I am capable of. レインボー学園、ありがとうございました。(translating to "thank you Rainbow Gakuen!")
