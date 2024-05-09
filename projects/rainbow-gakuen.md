@@ -9,7 +9,7 @@ labels:
   - Japanese
   - Education
   - Dedication
-summary: "I attended the Hawaii Japanese School: Rainbow Gakuen for 10 years to learn the history, culture, reading, writing, and language of Japan."
+summary: "The biggest challenge of my childhood where I attended the Hawaii Japanese School: Rainbow Gakuen for 10 years to learn the history, culture, reading, writing, and language of Japan."
 ---
 
 ## About
