@@ -21,7 +21,7 @@ As I delve deeper into school life, I seized every opportunity to participate, e
 Before long, I found myself presented with a remarkable opportunity--to join the Kalani Association of Students (KAS), the main study body council that represented the entirety of my high school. It was a moment of pride and responsibility, and a chance to represent not just myself, but younger me that thought that I never stood a chance.
 
 <div class="text-center p-4">
-  <img width="300px" src="../img/homecoming.JPG" class="img-thumbnail" >
+  <img width="400px" src="../img/homecoming.JPG" >
 </div>
 
 ## Leadership Responsibilites
