@@ -27,8 +27,8 @@ Bootstrap is a well known framework containing of HTML, CSS and JavaScript-based
 In my experience, I have worked on a few short projects to re-create simple website home pages. One example includes of my re-creation of the [Kahala Mall website](https://www.kahalamallcenter.com/).
 
 <div class="text-center p-4">
-    <img width="500px" src="../img/kahalamall.png" class="img-thumbnail">
-    <img width="500px" src="../img/my-kahalamall.png" class="img-thumbnail">
+    <img width="500px" src="../img/kahalamall.png">
+    <img width="500px" src="../img/my-kahalamall.png">
 </div>
 
 *Original image of website on left, my re-creation of website on right.*
