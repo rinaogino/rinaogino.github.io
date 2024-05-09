@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/math-logo.jpg
-title: "Mathematics Tutoring"
+title: "Mathematics Mentor"
 date: 2021
 published: true
 labels:
@@ -12,7 +12,7 @@ labels:
 summary: "My experience in peer tutoring a high school student in mathematics."
 ---
 
-<img width="200px" src="../img/tutoring.jpeg" class="img-thumbnail" >
+<img width="200px" class="rounded float-start pe-4" src="../img/tutoring.jpeg">
 
 When COVID-19 happened, almost all schools were shut down and students were forced to meet virtually. Many students faced challenges in adapting to a new environment, and started to lack skills in learning, socializing, and motivation to do anything. I then thought to myself, what can I do that can possibly be a help to anyone while keeping myself mentally active as well. This was when one of my high school counselors reached out to me and offered me a volunteering opportunity of tutoring students in need. 
 
