@@ -18,7 +18,7 @@ labels:
 
 A government establishes and enforces the rules of a society, maintains order, and provides assistance to the citizens. Similarly, coding standards are adhered by programmers to develop, execute, and share advanced successful code. Therefore, I consider coding standards to be the "Government of Code."
 
-#### Wait... what are coding standards?
+#### What are coding standards?
 
 Coding standards are rules or conventions that order how code should be written in a programming language. They are for consistency, readability, and portability of code across projects and development among a team. Coding standards typically cover various aspects of practices, including of format/alignment, documentation, error and exception handling, and more. In order to disperse code for others to see or use, we must follow a specific standard for the code to execute successfully, and that is why coding standards are a must--like our government (without a government, citizens would be free to do whatever they want--whether good or bad--and we would probably not want that). Besides, coding standards have the ability to improve one in learning a programming language just like the way we can become a "better" person if we follow governmental rules.
 
