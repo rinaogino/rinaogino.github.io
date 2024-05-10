@@ -4,7 +4,7 @@ type: project
 image: img/math-logo.jpg
 title: "Mathematics Mentor"
 date: 2021
-published: true
+published: false
 labels:
   - Mentorship
   - Education
