@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" , "macOS", "Unix" , "Emacs", "Visual Studio Code", "IntelliJ IDEA", "Npm" ]
+      "keywords": [ "Git/GitHub" , "macOS", "Unix" , "Emacs", "Visual Studio Code", "IntelliJ IDEA" ]
     }
   ],
   "education": [
