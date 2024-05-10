@@ -29,4 +29,4 @@ Furthermore, I am enthusiastic about the upcoming challenges in software enginee
 
 With the dynamic growth of the computer science field, my aspirations extend towards expanding my expertise in data science and artificial intelligence. I have always had an interest in databases and with the use of artificial intelligence and cloud computing, my goal is to conduct research on the impact of conversational AI on shaping our future.
 
-*I used ChatGPT to improve grammar and spelling in this document.*
+*I have used ChatGPT to improve grammar and spelling in this document.*
