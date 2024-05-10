@@ -93,4 +93,4 @@ export default StudentItem;
 
 Through this collaboration of container and presentational components, the application achieves a successful application, just as if I just build my first functional furniture. In contemplating the idea of moving out, I was struck by the parallel of assembling furniture and software engineering. Both the process of putting together physical furniture pieces and putting together code require a lot of planning, and responsibilities! With this, I hope to feel more confident in my ability to navigate adulthood and creating a space that reflects my independence.
 
-*ChatGPT was used to correct some grammar and spelling mistakes.*
+*ChatGPT was used to correct minor grammar and spelling mistakes.*
