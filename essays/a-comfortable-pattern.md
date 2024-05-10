@@ -23,7 +23,7 @@ When faced with a task of purchasing and putting together furniture, I'm reminde
 
 Interestingly, the process of assembling furniture is similar to the principles of software design patterns. As each piece of hardware and tools must work together to develop something new and functional, it must be ensured that the final product is solid and aesthetically pleasing as well. Both engineering methods require careful planning, and a understanding of how individual elements contribute to the larger picture. 
 
-<img width="250px" class="rounded float-start pe-4" src="../img/ensuring-uniqueness/blueprint.jpeg">
+<img width="350px" class="rounded float-start pe-4" src="../img/ensuring-uniqueness/blueprint.jpeg">
 
 ### The Blueprint
 
