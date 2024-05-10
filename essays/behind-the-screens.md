@@ -22,7 +22,7 @@ It was during this exploration that I discovered the use of User Interface (UI) 
 
 Bootstrap is a well known framework containing of HTML, CSS and JavaScript-based design templates offering a comprehensive set of tools that streamline website development processes. Especially in larger projects, I believe it is crucial to implement this sort of framework with pre-built components allowing efficiency in user interface development. Though build in libraries sounds like less tying and efficient coding, this is similar to learning another new programming language so...the learning process does get a bit frustrating. However, as they say, "practice makes perfect," and with much experience anyone can become a expert in Bootstrap.
 
-## Real Life Application of Behind the Screen
+## Real Life Application of Behind the Screens
 
 In my experience, I have worked on a few short projects to re-create simple website home pages. One example includes of my re-creation of the [Kahala Mall website](https://www.kahalamallcenter.com/).
 
