@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/kalani-logo.jpg
+image: img/kalostems/KaloStemsLogo.png
 title: "Kalo Stems"
 date: 2024
 published: true
@@ -14,11 +14,11 @@ labels:
 summary: "With a team of six, I co-founded a website application that facilitates connections between students and companies, allowing career exploration while refining search based on interests and skills."
 ---
 
+For my final project in ICS 314: Software Engineering, my team (Emily Hsu, Samantha Kocher, Roma Malasarte, Jaira Pader, and Natalie Dang) and I collaborated to develop a website application designed to enhance career connections and opportunities for University of Hawaiʻi students. This platform is highly similar to LinkedIn but with a focus on inclusivity, allowing students and companies to create detailed profiles. Students are able to showcase their skills and awards, linking to their LinkedIn and GitHub profiles, while companies can efficiently find suitable candidates for their job opportunities. Our goal was to create a seamless and empowering experience for students to explore and pursue career paths within our university community.
+
 <div class="text-center p-4">
   <img width="400px" src="../img/kalostems/LandingPage.png" >
 </div>
-
-For my final project in ICS 314: Software Engineering, my team and I collaborated to develop a website application designed to enhance career connections and opportunities for University of Hawaiʻi students. This platform is highly similar to LinkedIn but with a focus on inclusivity, allowing students and companies to create detailed profiles. Students are able to showcase their skills and awards, linking to their LinkedIn and GitHub profiles, while companies can efficiently find suitable candidates for their job opportunities. Our goal was to create a seamless and empowering experience for students to explore and pursue career paths within our university community.
 
 ## My Contributions to Kalo Stems Growth
 
@@ -34,7 +34,7 @@ Pictured above is the Add Student Profile page, where students are able to creat
   <img width="400px" src="../img/kalostems/ListStudentPage.png" >
 </div>
 
-Furthermore, our application enhances the recruitment experience for employers by providing easy access to a curated list of candidates, as demonstrated above. Instead of a traditional table layout with rows of data, I have implemented a card-based design, which another co-founder and I came up with. This functionality not only offers a more visually appealing presentation but enhances usability to showcase skills and experiences, streamlining the recruitment process for both students and companies. 
+Furthermore, our application enhances the recruitment experience for employers by providing easy access to a curated list of candidates, as demonstrated above. Instead of a traditional table layout with rows of data, I have implemented a card-based design, which another co-founder (Jaira) and I came up with. This functionality not only offers a more visually appealing presentation but enhances usability to showcase skills and experiences, streamlining the recruitment process for both students and companies. 
 
 <div class="text-center p-4">
   <img width="400px" src="../img/kalostems/EditStudentProfilePage.png" >
