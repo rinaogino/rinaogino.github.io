@@ -7,7 +7,7 @@ date: 2024-04-25
 published: true
 labels:
   - Software Engineering
-  - Software Design
+  - Design Patterns
   - Programming
 ---
 
@@ -35,7 +35,7 @@ Reflecting on my personal experiences whilst programming, I have realized many o
 
 In the following code, the `ListStudent` acts as a container component, as it connects to the Meteor data with `useTracker`, which pulls data from `Students` to get student data to be passed onto the presentational component, `StudentItem`.
 
-```
+```javascript
 const ListStudent = () => {
   const { ready, students } = useTracker(() => {
     const subscription = Meteor.subscribe(Students.userPublicationName);
@@ -54,7 +54,7 @@ export default ListStudents
 
 Following the code above, below is the `StudentItem` where it receives the student data as it provides the UI components for each student profile into the table of data.  
 
-```
+```javascript
 const StudentItem = ({ student }) => (
   <tr>
     <td>{student.fullName}</td>
