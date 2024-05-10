@@ -31,7 +31,7 @@ I played a crucial role in design and development of the student profile managem
 Pictured above is the Add Student Profile page, where students are able to create a comprehensive profile featuring their contact details, educational background, and links to their professional profiles on LinkedIn and or GitHub. One of the most challenging aspects was getting the image upload button to function correctly. While the image would load onto the page, saving it into the database required extensive debugging.
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/kalostems/ListStudentProfilePage.png" >
+  <img width="400px" src="../img/kalostems/ListStudentPage.png" >
 </div>
 
 Furthermore, our application enhances the recruitment experience for employers by providing easy access to a curated list of candidates, as demonstrated above. Instead of a traditional table layout with rows of data, I have implemented a card-based design, which another co-founder and I came up with. This functionality not only offers a more visually appealing presentation but enhances usability to showcase skills and experiences, streamlining the recruitment process for both students and companies. 
