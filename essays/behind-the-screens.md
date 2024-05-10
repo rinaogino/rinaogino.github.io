@@ -31,7 +31,7 @@ In my experience, I have worked on a few short projects to re-create simple webs
     <img width="500px" src="../img/my-kahalamall.png">
 </div>
 
-*Original image of website on left, my re-creation of website on right.*
+*On the left is a image of the original website home page, on the right is a image of my re-creation.*
 
 The website looks pretty simple, but to obtain my re-creation that does not look too similar to the original website took me almost the entire day to complete and approximately 150 lines of code. When I reflect on the code though, it is rather short. Why? It's because I utilized the Bootstrap.JS! To code from scratch, Bootstrap offered a robust framework with elements that supported me in detecting which elements work best to develop my interface. 
 
