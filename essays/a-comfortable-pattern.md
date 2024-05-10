@@ -25,7 +25,7 @@ Interestingly, the process of assembling furniture is similar to the principles 
 
 <img width="400px" class="rounded float-start pe-4" src="../img/ensuring-uniqueness/blueprint.jpeg">
 
-### The Blueprint
+#### The Blueprint
 
 Design patterns in software engineering is highly similar to the assembly instructions for constructing furniture. They are predefined solutions to common problems encountered during the development of software systems. Just as furniture building manuals guide the process of putting together individual components to create one functional piece of furniture, design patterns provide programmers with a structured approach to organizing and composing software components to achieve desired functionality. Like following step-by-step instructions to assemble furniture, implementing design patterns involves deep understanding of the problem being juggled, selecting the appropriate pattern, and applying it to the software architecture to create a maintainable system. Also, similar to a well made piece of furniture, a software using design patterns is known for its reliable, and easy to maintain nature.
 
