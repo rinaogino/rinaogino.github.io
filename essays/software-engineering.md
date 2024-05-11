@@ -11,6 +11,10 @@ labels:
   - Progress
 ---
 
+<div style="text-align: center;">
+    <img src="../img/software-engineering/se-roles.jpeg" style="width:50%; height:50%;">
+</div>
+
 In this course on software engineering, I've gained a deeper understanding of several fundamental concepts that extend beyond web application development. Two key topics that stand out are Agile Project Management and Design Patterns.
 
 ## Agile Project Management
