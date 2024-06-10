@@ -3,7 +3,7 @@
     "name": "Rina Ogino",
     "label": "Student",
     "picture": "https://github.com/rinaogino.png",
-    "email": "rin4@hawaii.edu",
+    "email": "rina.ogino1@gmail.com",
     "phone": "",
     "website": "https://rinaogino.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a Minor in Japanese in the Department of East Asian Languages and Literatures at the University of Hawaii. I expect to graduate in Spring, 2025.",
@@ -14,25 +14,25 @@
     ]
   },
   "interests": [
-    { "name": "Cloud Computing" },
-    { "name": "Data Science and Analysis" },
     { "name": "Software Development" },
+    { "name": "Data Science and Analysis" },
+    { "name": "Cloud Computing" },
     { "name": "Artificial Intelligence" },
     { "name": "Japanese"}
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "React" ]
+      "keywords": [ "Java", "Javascript", "C", "C++", "SQL", "HTML", "CSS", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Git/GitHub" , "macOS", "Unix" , "Emacs", "Visual Studio Code", "IntelliJ IDEA" ]
+      "keywords": [ "Git/GitHub" , "macOS", "Linux", "Visual Studio Code", "IntelliJ IDEA" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2021-08",
@@ -44,11 +44,12 @@
         "ICS 311 - Algorithms",
         "ICS 314 - Software Engineering",
         "ICS 321 - Database Systems",
+        "ICS 451 - Data Networks",
         "MATH 241/242 - Calculus I & II"
       ]
     },
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Japanese (expected Spring, 2025)",
       "studyType": "Minor",
       "startDate": "2021-08",
@@ -65,13 +66,26 @@
       "summary": "Student Assistant for Academic Advisors",
       "highlights": [
         "Implement and maintain user-friendly website using HTML, send out weekly newsletters to expand available resources and opportunities for students",
-        "Design and publish 5+ weekly posts on social media, resulting in 78% outreach in span of one year",
+        "Design and publish 5+ posts weekly on website blog and social media, resulting in 78% outreach in span of one year",
         "Manage and secure document processing with precise data entry while ensuring data confidentiality in compliance with FERPA",
-        "Lead project on Alumni Survey Analysis encompassing approximately 1200 responses, and identify key insights to present to the department for results in improving resource allocation"
+        "Lead project on Alumni Survey Data Analysis encompassing approximately 1200 responses, identifying key insights to present to the department for results in improving resource allocation"
       ]
     }
   ],
   "volunteer": [
+    {
+      "organization": "SWITCH: Suppporting Women in Technology and Computing Hawaii",
+      "website": "",
+      "position": "VP of Marketing",
+      "startDate": "2024-09",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Design and disseminate event flyers to promote SWITCH event attendance, advancing the organization’s mission of supporting women and minorities within STEM",
+        "Leverage social media analytics tools to follow engagement metrics and trends which were implemented into data-driven strategies, resulting in 53% surge in online account viewing and interaction",
+        "Execute outreach initiatives including event coordination, leading to significant increase in club membership within two months"
+      ]
+    },
     {
       "organization": "Kaimuki Public Library",
       "website": "",
